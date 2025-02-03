@@ -59,8 +59,8 @@ func main() {
 	// Get random quote from selected title
 	randomQuote := filteredQuotes[rand.Intn(len(filteredQuotes))]
 
-	var characterStyle = lipgloss.NewStyle().Bold(true).PaddingLeft(25)
-	var quoteStyle = lipgloss.NewStyle().Italic(true).Bold(true).Width(60)
+	var quoteStyle = lipgloss.NewStyle().Italic(true).Bold(true).Width(70)
+	var characterStyle = lipgloss.NewStyle().Bold(true).PaddingLeft(30)
 
 	fmt.Println(quoteStyle.Render(fmt.Sprintf("❝%s❞", randomQuote.Quote)))
 	fmt.Println(characterStyle.Render(fmt.Sprintf("─ %s (%s)", randomQuote.Character, randomTitle)))

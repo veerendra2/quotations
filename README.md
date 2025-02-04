@@ -10,7 +10,7 @@ A simple and fun tool that displays random quotes from movies and TV shows as a 
 - Single binary, no dependencies
 - Option to enable NSFW quotes
 
-## Installation
+## 🚀 Installation
 
 Download the latest binary from the [Releases](https://github.com/yourrepo/funmotd/releases) page and place it in a directory included in your `PATH`, such as `/usr/local/bin/`.
 
@@ -19,7 +19,7 @@ mv funmotd /usr/local/bin/
 chmod +x /usr/local/bin/funmotd
 ```
 
-## Usage
+## 📌 Usage
 
 Run the following command to see available options:
 

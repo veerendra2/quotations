@@ -1,0 +1,31 @@
+{
+  "Fight Club": [
+    {
+      "quote": "... Stop trying to control everything and just let go! LET GO!",
+      "character": "Tyler Durden",
+      "nsfw": false
+    },
+    {
+      "quote": "You're not your job, you're not the car you drive, you're not the contents of your wallet..",
+      "character": "Tyler Durden",
+      "nsfw": false
+    },
+    {
+      "quote": "We're consumers. We are by-products of a lifestyle obsession...",
+      "character": "Tyler Durden",
+      "nsfw": false
+    },
+    {
+      "quote": "We're a generation of men raised by women. I'm wondering if another woman is really the answer we need.",
+      "character": "Tyler Durden",
+      "nsfw": false
+    }
+  ],
+  "Terminator 2": [
+    {
+      "quote": "Hasta la vista, baby.",
+      "character": "Terminator",
+      "nsfw": false
+    }
+  ]
+}

@@ -30,15 +30,17 @@ changelog:
       - "^test:"
 
 brews:
-  - name: funmotd
-    url_template: "https://github.com/veerendra2/funmotd/releases/download/{{ .Tag }}/{{ .ArtifactName }}"
+  - name: quotations
+    url_template: "https://github.com/veerendra2/quotations/releases/download/{{ .Tag }}/{{ .ArtifactName }}"
     directory: Formula
     caveats: >-
-      ℹ️ To display a random quote when the terminal opens, add it to your shell
+      ℹ️ To display a random quote when terminal opens, add it to your shell
+
       💡 Example for Bash:
+
       echo "funmotd" >> ~/.bashrc
-    homepage: "https://github.com/veerendra2/funmotd"
-    description: "TV Shows and Movies Quotes MOTD for Shell 😎"
+    homepage: "https://github.com/veerendra2/quotations"
+    description: "A tool to display random inspirational quotes and famous dialogues from movies and TV shows on your CLI. 😎"
     license: "MIT"
     repository:
       owner: veerendra2

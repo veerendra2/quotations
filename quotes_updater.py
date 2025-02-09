@@ -1,0 +1,165 @@
+#!/usr/bin/env python3
+
+import json
+import os
+from urllib.parse import urlencode
+
+import requests
+from bs4 import BeautifulSoup
+from duckduckgo_search import DDGS
+from fake_useragent import UserAgent
+from googlesearch import search
+from loguru import logger
+
+USER_AGENT = UserAgent()
+SEARCH_SITES = ["screenrant.com"]
+MOVIES = ["Batman Begins"]
+FAMOUS_FIGURES = ["Abraham Lincoln", "William Shakespeare", "Mahatma Gandhi"]
+
+
+class Search:
+    """
+    Class to search strings in various search engines
+    """
+
+    def __init__(self, site, search_string, num_results=2) -> None:
+        self.site = site
+        self.search_string = search_string
+        self.num_results = num_results
+
+    def google(self):
+        """
+        Google Search
+        """
+        results = []
+        query = f'site:{self.site} "{self.search_string} movie quotes"'
+        logger.info(f"Searching in Google... {query}")
+        for result in search(
+            query, num_results=self.num_results, unique=True, lang="en", region="us"
+        ):
+            results.append(result)
+
+        return results
+
+    def duckduckgo(self):
+        """
+        DuckDuckGo Search
+        """
+        results = []
+        query = f'"{self.search_string} movie quotes" site:{self.site}'
+        logger.info(f"Searching in DuckDuckGO... {query}")
+        for result in DDGS().text(query, max_results=self.num_results, region="us-en"):
+            results.append(result)
+
+        return results
+
+
+def get_url_content(source_url):
+    headers = {"User-Agent": USER_AGENT.random}
+    response = requests.get(source_url, headers=headers, timeout=10)
+    response.raise_for_status()
+    return response
+
+
+def extract_quotes_from_screenrant(url):
+    """
+    Extracts quotes from https://screenrant.com
+    """
+
+    logger.info(f"Extracing quotes from {url}")
+    response = get_url_content(url)
+
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    quotes = []
+    for quote_section in soup.find_all("h2"):
+        quote_text = quote_section.get_text(strip=True)
+
+        next_sibling = quote_section.find_next("h3")
+        if next_sibling:
+            meta_text = next_sibling.get_text(strip=True)
+        quotes.append({"quote": quote_text, "character": meta_text})
+
+    return quotes
+
+
+def get_quotes_from_quotes_net_api():
+    """
+    Gets quotes from https://www.quotes.net API
+    API Docs: https://www.quotes.net/quotes_api.php
+    """
+    logger.info("Reading environment variables for quotes.net")
+    quotes_net_user_id = os.getenv("QUOTES_NET_USER_ID")
+    quotes_net_token = os.getenv("QUOTES_NET_TOKEN")
+
+    quote_file_location = "./quotes/famous-figures.json"
+    json_data = read_json(quote_file_location)
+
+    final_authors = []
+    for author in FAMOUS_FIGURES:
+        if author in json_data:
+            logger.info(f"Skipping {author}, already exists in {quote_file_location}")
+        else:
+            final_authors.append(author)
+
+    output = {}
+    base_url = "https://www.stands4.com/services/v2/quotes.php"
+    for author in final_authors:
+        params = {
+            "uid": quotes_net_user_id,
+            "tokenid": quotes_net_token,
+            "searchtype": "AUTHOR",
+            "query": author,
+            "format": "json",
+        }
+        url = f"{base_url}?{urlencode(params)}"
+        logger.info(f"Fetch author '{author}'")
+        response = get_url_content(url)
+        response.raise_for_status()
+        for quote in response.json().get("result", []):
+            try:
+                output[author].append({"quote": quote["quote"]})
+            except KeyError:
+                output[author] = [{"quote": quote["quote"]}]
+
+    final_output = {**output, **json_data}
+    write_json(quote_file_location, final_output)
+
+
+def read_json(file_path):
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except FileNotFoundError:
+        data = {}
+
+    return data
+
+
+def write_json(file_path, json_data):
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(json_data, f, ensure_ascii=False, indent=2)
+    logger.info(f"Json data successfully written to {file_path}")
+
+
+def display_links():
+    links = []
+    for site in SEARCH_SITES:
+        for movie in MOVIES:
+            isearch = Search(site=site, search_string=movie)
+            links.extend(isearch.google())
+
+    print(json.dumps(links, indent=4))
+
+
+if __name__ == "__main__":
+    # get_quotes_from_quotes_net_api()
+
+    # 1. Display Links and manualy verify
+    # display_links()
+
+    # 2. Past link and extract quotes
+    select_link = "https://screenrant.com/best-batman-movies-quotes/"
+    q = extract_quotes_from_screenrant(select_link)
+
+    # 3. Manualy edit quotes if required

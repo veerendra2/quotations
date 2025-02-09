@@ -2,7 +2,10 @@ module github.com/veerendra2/funmotd
 
 go 1.23.5
 
-require github.com/charmbracelet/lipgloss v1.0.0
+require (
+	github.com/alecthomas/kong v1.7.0
+	github.com/charmbracelet/lipgloss v1.0.0
+)
 
 require (
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect

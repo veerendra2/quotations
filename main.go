@@ -17,7 +17,7 @@ var quotesFiles embed.FS
 
 var cli struct {
 	NSFW          bool `help:"Enable NSFW quotes" short:"n"`
-	Entertainment bool `help:"Display entertainment (movies and tv shows) quotes" short:"e"`
+	Entertainment bool `help:"Display entertainment (movies and tv shows) quotes (default)" short:"e"`
 	Inspirational bool `help:"Display inspirational (famous figures) quotes" short:"i"`
 }
 

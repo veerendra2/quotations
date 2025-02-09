@@ -43,7 +43,7 @@ Usage: quotations [flags]
 Flags:
   -h, --help             Show context-sensitive help.
   -n, --nsfw             Enable NSFW quotes
-  -e, --entertainment    Display entertainment (movies and tv shows) quotes
+  -e, --entertainment    Display entertainment (movies and tv shows) quotes (default)
   -i, --inspirational    Display inspirational (famous figures) quotes
 ```
 
@@ -58,6 +58,7 @@ echo "/usr/local/bin/quotations" >> ~/.bashrc
 # To include NSFW quotes
 echo "/usr/local/bin/quotations --nsfw" >> ~/.bashrc
 
+# By default it displays entertainment quotes
 # To display inspirational quotes
 echo "/usr/local/bin/quotations --inspirational" >> ~/.bashrc
 ```

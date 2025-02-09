@@ -4,6 +4,8 @@ A tool to display random inspirational quotes and famous dialogues from movies a
 
 > This is a re-implementation of [funmotd](https://github.com/veerendra2/funmotd-py), originally written in Python. 🐍
 
+![Demo Gif](./demo.gif)
+
 ## Features ✨
 
 - ✈️ Works entirely offline

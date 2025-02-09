@@ -70,7 +70,7 @@ func main() {
 	var characterStyle = lipgloss.NewStyle().Bold(true).PaddingLeft(30).Foreground(lipgloss.Color("6"))
 
 	fmt.Println(quoteStyle.Render(fmt.Sprintf("❝%s❞", randomQuote.Quote)))
-	if cli.Inspirational{
+	if cli.Inspirational {
 		fmt.Println(characterStyle.Render(fmt.Sprintf("─ %s", randomTitle)))
 	} else {
 		fmt.Println(characterStyle.Render(fmt.Sprintf("─ %s (%s) 🎬", randomQuote.Character, randomTitle)))

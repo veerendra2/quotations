@@ -38,7 +38,7 @@ brews:
 
       💡 Example for Bash:
 
-      echo "funmotd" >> ~/.bashrc
+      echo "quotations" >> ~/.bashrc
     homepage: "https://github.com/veerendra2/quotations"
     description: "A tool to display random inspirational quotes and famous dialogues from movies and TV shows on your CLI. 😎"
     license: "MIT"

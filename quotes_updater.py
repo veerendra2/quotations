@@ -78,10 +78,7 @@ def extract_quotes_from_screenrant(url):
         next_sibling = quote_section.find_next("h3")
         if next_sibling:
             meta_text = next_sibling.get_text(strip=True)
-        quotes.append({
-            "quote": quote_text,
-            "character": meta_text
-        })
+        quotes.append({"quote": quote_text, "character": meta_text})
 
     return quotes
 
@@ -121,13 +118,9 @@ def get_quotes_from_quotes_net_api():
         response.raise_for_status()
         for quote in response.json().get("result", []):
             try:
-                output[author].append({
-                    "quote": quote["quote"]
-                })
+                output[author].append({"quote": quote["quote"]})
             except KeyError:
-                output[author] = [{
-                    "quote": quote["quote"]
-                }]
+                output[author] = [{"quote": quote["quote"]}]
 
     final_output = {**output, **json_data}
     write_json(quote_file_location, final_output)
@@ -159,12 +152,11 @@ def display_links():
     print(json.dumps(links, indent=4))
 
 
-
 if __name__ == "__main__":
-    #get_quotes_from_quotes_net_api()
+    # get_quotes_from_quotes_net_api()
 
     # 1. Display Links and manualy verify
-    #display_links()
+    # display_links()
 
     # 2. Past link and extract quotes
     select_link = "https://screenrant.com/best-batman-movies-quotes/"

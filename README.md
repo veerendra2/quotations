@@ -25,7 +25,7 @@ brew install quotations
 ### 2. Download Binaries 📥
 
 - Download the latest binary from the [Releases page](https://github.com/veerendra2/quotations/releases).
-- Move it to a directory included in your PATH, such as `/usr/local/bin/`.
+- Move it to a directory included in your `$PATH`, such as `/usr/local/bin/`.
 
 ```bash
 mv quotations /usr/local/bin/
@@ -47,22 +47,19 @@ Flags:
   -i, --inspirational    Display inspirational (famous figures) quotes
 ```
 
-### Auto-run on Terminal Startup 🖥️
+### Configuration 🔥
 
 To display a random quote each time you open your terminal, add the following line to your shell configuration file (e.g., `~/.bashrc`, `~/.zshrc`, or `~/.profile`)
 
 ```bash
 # Example for bash
 echo "/usr/local/bin/quotations" >> ~/.bashrc
-source ~/.bashrc
-```
 
-### Enabling NSFW Quotes 🔥
+# To include NSFW quotes
+echo "/usr/local/bin/quotations --nsfw" >> ~/.bashrc
 
-If you want to include NSFW quotes, modify your shell configuration file:
-
-```bash
-echo "/usr/local/bin/quotations -nsfw" >> ~/.bashrc
+# To display inspirational quotes
+echo "/usr/local/bin/quotations --inspirational" >> ~/.bashrc
 ```
 
 Then, reload your shell configuration:
@@ -73,9 +70,10 @@ source ~/.bashrc
 
 ## Add Quotes with Script
 
-```
+```bash
 pip3 install -r requirements.txt
 
+# See comments in the script for help
 python3 quotes_updater.py
 ```
 

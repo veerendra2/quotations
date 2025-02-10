@@ -14,7 +14,12 @@ from loguru import logger
 USER_AGENT = UserAgent()
 SEARCH_SITES = ["screenrant.com"]
 MOVIES = ["Batman Begins"]
-FAMOUS_FIGURES = ["Abraham Lincoln", "William Shakespeare", "Mahatma Gandhi"]
+FAMOUS_FIGURES = [
+    "Abraham Lincoln",
+    "William Shakespeare",
+    "Mahatma Gandhi",
+    "Albert Einstein",
+]
 
 
 class Search:
@@ -92,7 +97,7 @@ def get_quotes_from_quotes_net_api():
     quotes_net_user_id = os.getenv("QUOTES_NET_USER_ID")
     quotes_net_token = os.getenv("QUOTES_NET_TOKEN")
 
-    quote_file_location = "./quotes/famous-figures.json"
+    quote_file_location = "./quotes/inspirational/famous-figures.json"
     json_data = read_json(quote_file_location)
 
     final_authors = []
@@ -153,13 +158,13 @@ def display_links():
 
 
 if __name__ == "__main__":
-    # get_quotes_from_quotes_net_api()
+    get_quotes_from_quotes_net_api()
 
     # 1. Display Links and manualy verify
     # display_links()
 
     # 2. Past link and extract quotes
-    select_link = "https://screenrant.com/best-batman-movies-quotes/"
-    q = extract_quotes_from_screenrant(select_link)
+    # select_link = "https://screenrant.com/best-batman-movies-quotes/"
+    # q = extract_quotes_from_screenrant(select_link)
 
     # 3. Manualy edit quotes if required

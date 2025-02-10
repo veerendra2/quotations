@@ -8,9 +8,9 @@ A tool to display random inspirational quotes and famous dialogues from movies a
 
 ## Features ✨
 
-- ✈️ Works entirely offline
-- 📦 Single binary, no dependencies
-- 🔞 Option to enable NSFW quotes
+- ✈️ Works entirely offline.
+- 📦 Single binary, no dependencies.
+- 🔞 Option to enable NSFW quotes.
 - 🖥️ Useful as [Message of the Day (MOTD)](https://en.wikipedia.org/wiki/Message_of_the_day) in your terminal when you open it.
 
 ## Installation ⚙️
@@ -51,7 +51,7 @@ Flags:
 
 ### Configuration 🔥
 
-To display a random quote each time you open your terminal, add the following line to your shell configuration file (e.g., `~/.bashrc`, `~/.zshrc`, or `~/.profile`)
+To display a random quote each time you open your terminal, add the following line to your shell configuration file (e.g., `~/.bashrc`, `~/.zshrc`, or `~/.profile`).
 
 ```bash
 # Example for bash

@@ -149,5 +149,351 @@
       "character": "Patrick Bateman",
       "nsfw": false
     }
+  ],
+  "The Dark Knight": [
+    {
+      "quote": "I Believe That Whatever Doesn't Kill You, Simply Makes You... Stranger.",
+      "character": "Joker",
+      "nsfw": false
+    },
+    {
+      "quote": "You Wanna Know How I Got These Scars?",
+      "character": "Joker",
+      "nsfw": false
+    },
+    {
+      "quote": "And I Thought MY Jokes Were Bad!",
+      "character": "Joker",
+      "nsfw": false
+    },
+    {
+      "quote": "If You're Good At Something, Never Do It For Free.",
+      "character": "Joker",
+      "nsfw": false
+    },
+    {
+      "quote": "I'm A Man Of My Word.",
+      "character": "Joker",
+      "nsfw": false
+    },
+    {
+      "quote": "It's Simple. We, Uh, Kill The Batman.",
+      "character": "Joker",
+      "nsfw": false
+    },
+    {
+      "quote": "Now, I See The Funny Side. Now, I'm Always Smiling!",
+      "character": "Joker",
+      "nsfw": false
+    },
+    {
+      "quote": "Never Start With The Head! The Victim Gets All... Fuzzy!",
+      "character": "Joker",
+      "nsfw": false
+    },
+    {
+      "quote": "Very Poor Choice Of Words...",
+      "character": "Joker",
+      "nsfw": false
+    },
+    {
+      "quote": "In Their Last Moments, People Show You Who They Really Are.",
+      "character": "Joker",
+      "nsfw": false
+    },
+    {
+      "quote": "You Have Nothing... NOTHING To Threaten Me With!",
+      "character": "Joker",
+      "nsfw": false
+    },
+    {
+      "quote": "How Many Of Your Friends Have I Killed?",
+      "character": "Joker",
+      "nsfw": false
+    },
+    {
+      "quote": "I'm A Dog Chasing Cars. I Wouldn't Know What To Do With One If I Caught It!",
+      "character": "Joker",
+      "nsfw": false
+    },
+    {
+      "quote": "It's Not About Money. It's About Sending A Message. Everything Burns!",
+      "character": "Joker",
+      "nsfw": false
+    },
+    {
+      "quote": "This Town Deserves A Better Class Of Criminal, And I'm Gonna Give It to 'Em.",
+      "character": "Joker",
+      "nsfw": false
+    },
+    {
+      "quote": "I Won't Kill You, Because You're Just Too Much Fun.",
+      "character": "Joker",
+      "nsfw": false
+    },
+    {
+      "quote": "This Is What Happens When An Unstoppable Force Meets An Immovable Object.",
+      "character": "Joker",
+      "nsfw": false
+    },
+    {
+      "quote": "Madness, As You Know, Is Like Gravity. All It Takes Is A Little Push!",
+      "character": "Joker",
+      "nsfw": false
+    },
+    {
+      "quote": "Introduce A Little Anarchy, Upset The Established Order, And Everything Becomes Chaos.",
+      "character": "Joker",
+      "nsfw": false
+    },
+    {
+      "quote": "You...You... Complete Me.",
+      "character": "Joker",
+      "nsfw": false
+    }
+  ],
+  "The Matrix": [
+    {
+      "quote": "Temporary Constructs Of A Feeble Human Intellect Trying Desperately To Justify An Existence That Is Without Meaning Or Purpose. And All Of Them As Artificial As The Matrix Itself.",
+      "character": "Agent Smith",
+      "nsfw": false
+    },
+    {
+      "quote": "My Name Is Trinity And You Better Take Your Hands Off Of Me.",
+      "character": "Trinity",
+      "nsfw": false
+    },
+    {
+      "quote": "We're Not Here Because We're Free. We're Here Because We're *Not* Free.",
+      "character": "Agent Smith",
+      "nsfw": false
+    },
+    {
+      "quote": "You Always Told Me To Stay Off The Freeway",
+      "character": "Trinity",
+      "nsfw": false
+    },
+    {
+      "quote": "No Lieutenant, Your Men Are Already Dead.",
+      "character": "Agent Smith",
+      "nsfw": false
+    },
+    {
+      "quote": "I Didn't Come Here To Tell You How This Is Going To End. I Came Here To Tell You How It's Going To Begin.",
+      "character": "Neo",
+      "nsfw": false
+    },
+    {
+      "quote": "What's Really Going To Bake Your Noodle Later On Is, Would You Still Have Broken It If I Hadn't Said Anything?",
+      "character": "The Oracle",
+      "nsfw": false
+    },
+    {
+      "quote": "Dodge This.",
+      "character": "Trinity",
+      "nsfw": false
+    },
+    {
+      "quote": "The Matrix Cannot Tell You Who You Are.",
+      "character": "Trinity",
+      "nsfw": false
+    },
+    {
+      "quote": "Human Beings Are A Disease, A Cancer Of This Planet. You're A Plague, And We Are The Cure.",
+      "character": "Agent Smith",
+      "nsfw": false
+    },
+    {
+      "quote": "You Have The Look Of A Man Who Accepts What He Sees... Because He's Expecting To Wake Up.",
+      "character": "Morpheus",
+      "nsfw": false
+    },
+    {
+      "quote": "There Is No Spoon.",
+      "character": "Spoon Boy",
+      "nsfw": false
+    },
+    {
+      "quote": "You Take The Red Pill, You Stay In Wonderland, And I Show You How Deep The Rabbit Hole Goes.",
+      "character": "Morpheus",
+      "nsfw": false
+    },
+    {
+      "quote": "I Have Dreamed A Dream, But Now That Dream Is Gone From Me.",
+      "character": "Morpheus",
+      "nsfw": false
+    },
+    {
+      "quote": "What Was Said Was For You, And You Alone.",
+      "character": "Matrix",
+      "nsfw": false
+    },
+    {
+      "quote": "A Sentinel For Every Man, Woman, And Child In Zion.",
+      "character": "Morpheus",
+      "nsfw": false
+    },
+    {
+      "quote": "We Are Still Here!",
+      "character": "Morpheus",
+      "nsfw": false
+    },
+    {
+      "quote": "Fate, It Seems, Is Not Without A Sense Of Irony.",
+      "character": "Matrix",
+      "nsfw": false
+    },
+    {
+      "quote": "Remember...All I'm Offering Is The Truth. Nothing More.",
+      "character": "Morpheus",
+      "nsfw": false
+    },
+    {
+      "quote": "You Have To Understand, Most People Are Not Ready To Be Unplugged...",
+      "character": "Morpheus",
+      "nsfw": false
+    },
+    {
+      "quote": "You Think That's Air You're Breathing Now?",
+      "character": "Morpheus",
+      "nsfw": false
+    },
+    {
+      "quote": "Have You Ever Had A Dream, Neo, That You Were So Sure Was Real?",
+      "character": "Morpheus",
+      "nsfw": false
+    },
+    {
+      "quote": "What You Know You Can't Explain, But You Feel It. You've Felt It Your Entire Life.",
+      "character": "Morpheus",
+      "nsfw": false
+    },
+    {
+      "quote": "Don't THINK You Are. KNOW You Are.",
+      "character": "Morpheus",
+      "nsfw": false
+    },
+    {
+      "quote": "I Can Only Show You The Door. You're The One That Has To Walk Through It.",
+      "character": "Morpheus",
+      "nsfw": false
+    },
+    {
+      "quote": "He's Beginning To Believe!",
+      "character": "Morpheus",
+      "nsfw": false
+    },
+    {
+      "quote": "You Have To Let It All Go, Neo - Fear, Doubt, And Disbelief. Free Your Mind!",
+      "character": "Morpheus",
+      "nsfw": false
+    },
+    {
+      "quote": "You Take The Red Pill - You Stay In Wonderland, And I Show You How Deep The Rabbit Hole Goes.",
+      "character": "Morpheus",
+      "nsfw": false
+    }
+  ],
+  "Forrest Gump": [
+    {
+      "quote": "Hello. My Name's Forrest, Forrest Gump. You Want A Chocolate?",
+      "character": "Forrest Gump",
+      "nfsw": false
+    },
+    {
+      "quote": "I'm Pretty Tired… I Think I'll Go Home Now.",
+      "character": "Forrest Gump",
+      "nfsw": false
+    },
+    {
+      "quote": "Dear God, Make Me A Bird. So I Could Fly Far. Far Far Away From Here.",
+      "character": "Forrest Gump",
+      "nfsw": false
+    },
+    {
+      "quote": "Mama Always Had A Way Of Explaining Things So I Could Understand Them.",
+      "character": "Forrest Gump",
+      "nfsw": false
+    },
+    {
+      "quote": "You Have To Do The Best With What God Gave You.",
+      "character": "Mrs. Gump",
+      "nfsw": false
+    },
+    {
+      "quote": "Is He Smart Or Is He...?",
+      "character": "Forrest Gump",
+      "nfsw": false
+    },
+    {
+      "quote": "That's All I Have To Say About That.",
+      "character": "Forrest Gump",
+      "nfsw": false
+    },
+    {
+      "quote": "Lieutenant Dan Got Me Invested In Some Kind Of Fruit Company...",
+      "character": "Forrest Gump",
+      "nfsw": false
+    },
+    {
+      "quote": "It Happens.",
+      "character": "Forrest Gump",
+      "nfsw": false
+    },
+    {
+      "quote": "I Don't Know If We Have A Destiny...",
+      "character": "Forrest Gump",
+      "nfsw": false
+    },
+    {
+      "quote": "What's Normal, Anyways?",
+      "character": "Mrs. Gump",
+      "nfsw": false
+    },
+    {
+      "quote": "Jenny And Me Was Like Peas And Carrots.",
+      "character": "Forrest Gump",
+      "nfsw": false
+    },
+    {
+      "quote": "They Said It Was A Million Dollar Wound, But The Army Must Keep That Money...",
+      "character": "Forrest Gump",
+      "nfsw": false
+    },
+    {
+      "quote": "I'm Not A Smart Man. But I Know What Love Is.",
+      "character": "Forrest Gump",
+      "nfsw": false
+    },
+    {
+      "quote": "Anyway, Like I Was Sayin', Shrimp Is The Fruit Of The Sea...",
+      "character": "Bubba Blue",
+      "nfsw": false
+    },
+    {
+      "quote": "Mama Says Stupid Is As Stupid Does.",
+      "character": "Forrest Gump",
+      "nfsw": false
+    },
+    {
+      "quote": "Mama Always Said You Can Tell A Lot About A Person By Their Shoes.",
+      "character": "Forrest Gump",
+      "nfsw": false
+    },
+    {
+      "quote": "Mama Always Said Dying Was A Part Of Life. I Sure Wish It Wasn't.",
+      "character": "Forrest Gump",
+      "nfsw": false
+    },
+    {
+      "quote": "You Can't Keep Tryin' To Rescue Me All The Time.",
+      "character": "Jenny Curran",
+      "nfsw": false
+    },
+    {
+      "quote": "My Mama Always Said You've Got To Put The Past Behind You Before You Can Move On.",
+      "character": "Forrest Gump",
+      "nfsw": false
+    }
   ]
 }

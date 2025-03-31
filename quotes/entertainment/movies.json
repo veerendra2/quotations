@@ -495,5 +495,107 @@
       "character": "Forrest Gump",
       "nfsw": false
     }
+  ],
+  "Die Hard": [
+    {
+      "quote": "Fists With Your Toes?",
+      "character": "John McClane",
+      "nsfw": false
+    },
+    {
+      "quote": "Who Said We Were Terrorists?",
+      "character": "Hans Gruber",
+      "nsfw": false
+    },
+    {
+      "quote": "I Want Blood.",
+      "character": "Karl (Alexander Godunov)",
+      "nsfw": false
+    },
+    {
+      "quote": "If You Are What I Think You Are, Then You'll Know When To Shut Up, When To Listen... And When To Pray.",
+      "character": "Al Powell",
+      "nsfw": false
+    },
+    {
+      "quote": "Why The F*** Didn't You Stop 'Em, John? 'Cause Then You'd Be Dead, Too, A**hole.",
+      "character": "John McClane",
+      "nsfw": true
+    },
+    {
+      "quote": "Twas The Night Before Christmas, And All Through The House, Not A Creature Was Stirring, Except... The Four A******* Coming In The Rear In Standard Two-By-Two Cover Formation.",
+      "character": "Theo",
+      "nsfw": true
+    },
+    {
+      "quote": "Nice Suit. John Philips, London. I Have Two Myself.",
+      "character": "Hans Gruber",
+      "nsfw": false
+    },
+    {
+      "quote": "Thanks For The Advice",
+      "character": "John McClane",
+      "nsfw": false
+    },
+    {
+      "quote": "I Read About Them In Time Magazine.",
+      "character": "Hans Gruber",
+      "nsfw": false
+    },
+    {
+      "quote": "Now I Know What A TV Dinner Feels Like.",
+      "character": "John McClane",
+      "nsfw": false
+    },
+    {
+      "quote": "Does It Sound Like I'm Ordering A Pizza",
+      "character": "John McClane",
+      "nsfw": false
+    },
+    {
+      "quote": "Only John Can Drive Somebody That Crazy.",
+      "character": "Holly Gennaro McClane",
+      "nsfw": false
+    },
+    {
+      "quote": "From Up Here It Doesn't Look Like You're In Charge Of Jack S***.",
+      "character": "John McClane",
+      "nsfw": false
+    },
+    {
+      "quote": "I Am An Exceptional Thief, Mrs. McClane. And Since I'm Moving Up To Kidnapping, You Should Be More Polite.",
+      "character": "Hans Gruber",
+      "nsfw": false
+    },
+    {
+      "quote": "Just A Fly In The Ointment, Hans. The Monkey In The Wrench. The Pain In The Ass.",
+      "character": "John McClane",
+      "nsfw": false
+    },
+    {
+      "quote": "He Won't Be Joining Us For The Rest Of His Life.",
+      "character": "Hans Gruber",
+      "nsfw": false
+    },
+    {
+      "quote": "No Relation.",
+      "character": "Little Johnson",
+      "nsfw": false
+    },
+    {
+      "quote": "Hans, Bubby, I'm Your White Knight.",
+      "character": "Ellis",
+      "nsfw": false
+    },
+    {
+      "quote": "Come Out To The Coast, We'll Get Together, Have A Few Laughs...",
+      "character": "John McClane",
+      "nsfw": false
+    },
+    {
+      "quote": "And Alexander Wept, Seeing As He Had No More Worlds To Conquer.",
+      "character": "John McClane",
+      "nsfw": false
+    }
   ]
 }

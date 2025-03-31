@@ -13,12 +13,24 @@ from loguru import logger
 
 USER_AGENT = UserAgent()
 SEARCH_SITES = ["screenrant.com"]
-MOVIES = ["Batman Begins"]
+MOVIES = [
+    "Batman Begins",
+    "The Big Bang Theory",
+    "The Dark Knight",
+    "Die Hard",
+    "The Matrix",
+    "Forrest Gump"
+]
 FAMOUS_FIGURES = [
     "Abraham Lincoln",
     "William Shakespeare",
     "Mahatma Gandhi",
     "Albert Einstein",
+    "Socrates",
+    "Martin Luther King, Jr.",
+    "Galileo Galilei",
+    "Mark Twain",
+    "Benjamin Franklin"
 ]
 
 
@@ -161,10 +173,11 @@ if __name__ == "__main__":
     get_quotes_from_quotes_net_api()
 
     # 1. Display Links and manualy verify
-    # display_links()
+    #display_links()
 
     # 2. Past link and extract quotes
-    # select_link = "https://screenrant.com/best-batman-movies-quotes/"
-    # q = extract_quotes_from_screenrant(select_link)
+    #select_link = "https://screenrant.com/best-quotes-forrest-gump-movie/"
+    #q = extract_quotes_from_screenrant(select_link)
+    #write_json("./quotes/entertainment/test.json", q)
 
     # 3. Manualy edit quotes if required

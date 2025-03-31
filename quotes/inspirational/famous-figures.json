@@ -1,4 +1,1988 @@
 {
+  "Socrates": [
+    {
+      "quote": "And in knowing that you know nothing, that makes you the smartest of all."
+    },
+    {
+      "quote": "As for me, all I know is that I know nothing."
+    },
+    {
+      "quote": "Bad men live that they may eat and drink, whereas good men eat and drink that they may live"
+    },
+    {
+      "quote": "Bad men live that they may eat and drink, whereas good men eat and drink that they may live."
+    },
+    {
+      "quote": "Be slow to fall into friendship but when thou art in, continue firm and constant."
+    },
+    {
+      "quote": "By all means marry. If you get a good wife, you’ll be happy. If you get a bad one, you’ll become a philosopher… and that is a good thing for any man."
+    },
+    {
+      "quote": "By all means marry: if you get a good wife, you’ll become happy; if you get a bad one, you’ll become a philosopher."
+    },
+    {
+      "quote": "Children today are tyrants. They contradict their parents, gobble their food, and tyrannize their teachers."
+    },
+    {
+      "quote": "Culture is the habit of being pleased with the best and knowing why."
+    },
+    {
+      "quote": "Death may be the greatest of all human blessings."
+    },
+    {
+      "quote": "Do not do to others what angers you if done to you by others."
+    },
+    {
+      "quote": "Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for."
+    },
+    {
+      "quote": "Envy is the ulcer of the soul."
+    },
+    {
+      "quote": "Get not your friends by bare compliments, but by giving them sensible tokens of your love"
+    },
+    {
+      "quote": "Get not your friends by bare compliments, but by giving them sensible tokens of your love"
+    },
+    {
+      "quote": "Get not your friends by bare compliments, but by giving them sensible tokens of your love."
+    },
+    {
+      "quote": "Give me beauty in the inward soul; may the outward and the inward man be at one."
+    },
+    {
+      "quote": "Having the fewest wants, I am nearest to the gods."
+    },
+    {
+      "quote": "Having the fewest wants,I am nearest to the gods"
+    },
+    {
+      "quote": "He is richest who is content with the least, for content is the wealth of nature."
+    },
+    {
+      "quote": "He is richest who is content with the least."
+    },
+    {
+      "quote": "He who is not contented with what he has, would not be contented with what he would like to have."
+    },
+    {
+      "quote": "I am not an Athenian or a Greek, but a citizen of the world."
+    },
+    {
+      "quote": "I am not Athenian or a Greek, but a citizen of the world"
+    },
+    {
+      "quote": "I am the wisest man alive, for I know one thing, and that is that I know nothing."
+    },
+    {
+      "quote": "I cannot teach anybody anything, I can only make them think."
+    },
+    {
+      "quote": "I decided that it was not wisdom that enable poets to write their poetry, but a kind of instinct or inspiration, such that you find in seers and prophets who deliver all their sublime message without knowing in the least what they mean"
+    },
+    {
+      "quote": "I decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean."
+    },
+    {
+      "quote": "I do nothing but go about persuading you all, old and young alike, not to take thought for your persons or your properties, but and chiefly to care about the greatest improvement of the soul. I tell you that virtue is not given by money, but that from virtue comes money and every other good of man, public as well as private. This is my teaching, and if this is the doctrine which corrupts the youth, I am a mischievous person."
+    },
+    {
+      "quote": "I know nothing except the fact of my ignorance"
+    },
+    {
+      "quote": "I know nothing except the fact of my ignorance."
+    },
+    {
+      "quote": "I know that I am intelligent, because I know that I know nothing."
+    },
+    {
+      "quote": "I only wish that ordinary people had an unlimited capacity for doing harm; then they might have an unlimited power for doing good."
+    },
+    {
+      "quote": "I thought to myself, 'I am wiser than this man neither of us knows anything that is really worthwhile, but he thinks he has knowledge when he has not, while I, having no knowledge, do not think that I have. I seem, at any rate, to be a little wiser than he is on this point I do not think that I know what I do not know."
+    },
+    {
+      "quote": "If a man is proud of his wealth, he should not be praised until it is known how he employs it"
+    },
+    {
+      "quote": "If a rich man is proud of his wealth, he should not be praised until it is known how he employs it."
+    },
+    {
+      "quote": "If all misfortunes were laid in one common heap whence everyone must take an equal portion, most people would be contented to take their own and depart."
+    },
+    {
+      "quote": "If I am the wisest man alive, it is for I know one thing, and that is that I know nothing"
+    },
+    {
+      "quote": "If I am the wisest man alive, it is for I know one thing, and that is that I know nothing"
+    },
+    {
+      "quote": "Let him that would move the world, first move himself."
+    },
+    {
+      "quote": "Man must rise above  earth to the top of the atmosphere and beyond, for only then will he fully\nunderstand the world in which he lives."
+    },
+    {
+      "quote": "My belief is that to have no wants is divine."
+    },
+    {
+      "quote": "No citizen has a right to be an amateur in the matter of physical training… what a disgrace it is for a man to grow old without ever seeing the beauty and strength of which his body is capable."
+    },
+    {
+      "quote": "Not life, but good life, is to be chiefly valued."
+    },
+    {
+      "quote": "Once made equal to man, woman becomes his superior."
+    },
+    {
+      "quote": "Only the extremely ignorant or the extremely intelligent can resist change."
+    },
+    {
+      "quote": "People demand freedom of speech to make up for the freedom of thought which they avoid."
+    },
+    {
+      "quote": "Regard your good name as the richest jewel you can possibly be possessed of - for credit is like fire when once you have kindled it you may easily preserve it, but if you once extinguish it, you will find it an arduous task to rekindle it again. The way to gain a good reputation is to endeavor to be what you desire to appear."
+    },
+    {
+      "quote": "Regard your good name as the richest jewel you can possibly be possessed of - for credit is like fire; when once you have kindled it you may easily preserve it, but if you once extinguish it, you will find it an arduous task to rekindle it again. The way to gain a good reputation is to endeavor to be what you desire to appear."
+    },
+    {
+      "quote": "Remember that there is nothing stable in human affairs therefore avoid undue elation in prosperity, or undue depression in adversity."
+    },
+    {
+      "quote": "Remember that there is nothing stable in human affairs; therefore avoid undue elation in prosperity, or undue depression in adversity"
+    },
+    {
+      "quote": "Remember that there is nothing stable in human affairs; therefore avoid undue elation in prosperity, or undue depression in adversity."
+    },
+    {
+      "quote": "Remember what is unbecoming to do is also unbecoming to speak of"
+    },
+    {
+      "quote": "Remember what is unbecoming to do is also unbecoming to speak of"
+    },
+    {
+      "quote": "Remember what is unbecoming to do is also unbecoming to speak of."
+    },
+    {
+      "quote": "Remember, no human condition is ever permanent. Then you will not be overjoyed in good fortune nor too scornful in misfortune."
+    },
+    {
+      "quote": "Science says 'We must live,' and seeks the means of prolonging, increasing, facilitating and amplifying life, of making it tolerable and acceptable, wisdom says 'We must die,' and seeks how to make us die well."
+    },
+    {
+      "quote": "See one promontory, one mountain, one sea, one river and see all."
+    },
+    {
+      "quote": "Snowmen come to life during the full moon to devour children."
+    },
+    {
+      "quote": "The children now love luxury; they have bad manners, contempt for authority; they show disrespect for elders and love chatter in place of exercise. Children are now tyrants, not the servants of their households. They no longer rise when elders enter the room. They contradict their parents, chatter before company, gobble up dainties at the table, cross their legs, and tyrannize their teachers."
+    },
+    {
+      "quote": "The end of life is to be like God, and the soul following God will be like him."
+    },
+    {
+      "quote": "The greatest way to live with honor in this world is to be what we pretend to be."
+    },
+    {
+      "quote": "The only good is knowledge and the only evil is ignorance"
+    },
+    {
+      "quote": "The only good is knowledge and the only evil is ignorance."
+    },
+    {
+      "quote": "The only true wisdom is in knowing you know nothing"
+    },
+    {
+      "quote": "The only true wisdom is in knowing you know nothing."
+    },
+    {
+      "quote": "The shortest and surest way to live with honor in the world is to be in reality what we would appear to be; all human virtues increase and strengthen themselves by the practice and experience of them."
+    },
+    {
+      "quote": "The shortest and surest way to live with honour in the world, is to be in reality what we would appear to be and if we observe, we shall find, that all human virtues increase and strengthen themselves by the practice of them."
+    },
+    {
+      "quote": "The shortest and surest way to live with honour in the world, is to be in reality what we would appear to be; and if we observe, we shall find, that all human virtues increase and strengthen themselves by the practice of them."
+    },
+    {
+      "quote": "The unexamined life is not worth living"
+    },
+    {
+      "quote": "The unexamined life is not worth living."
+    },
+    {
+      "quote": "The way to gain a good reputation is to endeavor to be what you desire to appear."
+    },
+    {
+      "quote": "There is only one good, knowledge and one evil, ignorance"
+    },
+    {
+      "quote": "There is only one good, knowledge, and one evil, ignorance."
+    },
+    {
+      "quote": "Think not faithful who praise all thy words and actions; but those who kindly reprove thy faults"
+    },
+    {
+      "quote": "Think not those faithful who praise all thy words and actions, but those who kindly reprove thy faults."
+    },
+    {
+      "quote": "Thiu shouldst eat to live not live to eat"
+    },
+    {
+      "quote": "Thou shouldst eat to live; not live to eat."
+    },
+    {
+      "quote": "True knowledge exists in knowing that you know nothing."
+    },
+    {
+      "quote": "True knowledge exists in knowing that you know nothing. And in knowing that you know nothing, that makes you the smartest of all."
+    },
+    {
+      "quote": "Virtue does not come from wealth, but. . . wealth, and every other good thing which men have. . . comes from virtue."
+    },
+    {
+      "quote": "We are in fact convinced that if we are ever to have pure knowledge of anything, we must get rid of the body and contemplate things by themselves with the soul by itself. It seems, to judge from the argument, that the wisdom which we desire and upon which we profess to have set our hearts will be attainable only when we are dead and not in our lifetime."
+    },
+    {
+      "quote": "When the debate is over, slander becomes the tool of the loser."
+    },
+    {
+      "quote": "Wind buffs up empty bladders; opinion, fools."
+    },
+    {
+      "quote": "Wisdom begins in wonder."
+    }
+  ],
+  "Martin Luther King, Jr.": [
+    {
+      "quote": "...And I've looked over, and I've seen the promised land. I may not get there with you, but I want you to know tonight that we as a people will get to the promised land. So I'm happy tonight. I'm not worried about anything. I'm not fearing any man."
+    },
+    {
+      "quote": "A man can't ride your back unless it's bent."
+    },
+    {
+      "quote": "A man who won't die for something is not fit to live."
+    },
+    {
+      "quote": "A nation that continues to produce soft-minded men purchases its own spiritual death on the installment plan."
+    },
+    {
+      "quote": "All labor that uplifts humanity has dignity and importance and should be undertaken with painstaking excellence."
+    },
+    {
+      "quote": "All men are caught in an inescapable network of mutuality."
+    },
+    {
+      "quote": "All progress is precarious, and the solution of one problem brings us face to face with another problem."
+    },
+    {
+      "quote": "Darkness cannot drive out darkness only light can do that. Hate cannot drive out hate only love can do that."
+    },
+    {
+      "quote": "Discrimination is a hellhound that gnaws at Negroes in every waking moment of their lives to remind them that the lie of their inferiority is accepted as truth in the society dominating them."
+    },
+    {
+      "quote": "Everybody can be great... because anybody can serve. You don't have to have a college degree to serve. You don't have to make your subject and verb agree to serve. you only need a heart full of grace. a soul generated by love."
+    },
+    {
+      "quote": "Forgiveness is not an occasional act it is an attitude."
+    },
+    {
+      "quote": "Hatred paralyzes life love releases it. Hatred confuses life love harmonizes it. Hatred darkens life love illumines it."
+    },
+    {
+      "quote": "History will have to record that the greatest tragedy of this period of social transition was not the strident clamor of the bad people, but the appalling silence of the good people."
+    },
+    {
+      "quote": "Human salvation lies in the hands of the creatively maladjusted."
+    },
+    {
+      "quote": "I believe that unarmed truth and unconditional love will have the final word in reality. That is why right, temporarily defeated, is stronger than evil triumphant."
+    },
+    {
+      "quote": "I feel that we will continue to have a non-violent movement, and we will continue to find the vast majority of Negroes committed to non-violence, at least as the best tactical approach and from a pragmatic point of view as the best strategy in dealing with the problem of racial injustice. Realism impels me to admit, however, that when there is justice and the pursuit of justice, violence appears, and where there is injustice and frustration, the potentialities for violence are greater, and I would like to strongly stress the point that the more we can achieve victories through non-violence, the more it will be possible to keep the non-violent discipline at the center of the movement. But the more we find individuals facing conditions of frustration, conditions of disappointment and seething despair as a result of the slow pace of things and the failure to change conditions, the more it will be possible for the apostles of violence to interfere."
+    },
+    {
+      "quote": "I have a dream that my four little children will one day live in a nation when they will not be judged by the color of their skin, but by the content of their character."
+    },
+    {
+      "quote": "I have a dream that one day on the red hills of Georgia the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood."
+    },
+    {
+      "quote": "I have a dream that one day this nation will rise up and live out the true meaning of its creed; We hold these truths to be self-evident: that all men are created equal"
+    },
+    {
+      "quote": "I have a dream, that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character. I have a dream today"
+    },
+    {
+      "quote": "I have almost reached the regrettable conclusion that the Negro's great stumbling block in the stride toward freedom is not the White Citizen's Councilor or the Ku Klux Klanner, but the white moderate, who is more devoted to 'order' than to justice who prefers a negative peace which is the absence of tension to a positive peace which is the presence of justice who constantly says 'I agree with you in the goal you seek, but I cannot agree with your methods of direct action' who paternalistically believes he can set the timetable for someone else's freedom who lives by a mythical concept of time and who constantly advises the Negro to wait for a 'more convenient season.'"
+    },
+    {
+      "quote": "I submit to you that if a man hasn't discovered something he will die for, he isn't fit to live."
+    },
+    {
+      "quote": "If a man is called to be a streetsweeper, he should sweep streets even as Michelangelo painted, or Beethoven composed music, or Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and earth will pause to say, here lived a great streetsweeper who did his job well."
+    },
+    {
+      "quote": "If a man is called to be a streetsweeper, he should sweep streets even as Michelangelo painted, or Beethoven played music, or Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and earth will pause to say, here lived a great streetsweeper who did his job well."
+    },
+    {
+      "quote": "If you can't fly, then run,\nif you can't run, then walk, \nif you can't walk ,then crawl\nbut whatever you do,\nyou have to keep moving  forward"
+    },
+    {
+      "quote": "If you will protest courageously, and yet with dignity and Christian love, when the history books are written in future generations, the historians will have to pause and say, There lived a great people-a black people-who injected new meaning and dignity into the veins of civilization."
+    },
+    {
+      "quote": "In no sense do I advocate evading or defying the law ... That would lead to anarchy. An individual who breaks a law that his conscience tells him is unjust, and who willingly accepts the penalty of imprisonment in order to arouse the conscience of the community over its injustice, is in reality expressing the highest respect for law."
+    },
+    {
+      "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends."
+    },
+    {
+      "quote": "Injustice anywhere is a threat to justice everywhere."
+    },
+    {
+      "quote": "Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly, affects all indirectly."
+    },
+    {
+      "quote": "It is my hope that as the Negro plunges deeper into the quest for freedom and justice he will plunge even deeper into the philosophy of non-violence. The Negro all over the South must come to the point that he can say to his white brother: We will match your capacity to inflict suffering with our capacity to endure suffering. We will meet your physical force with soul force. We will not hate you, but we will not obey your evil laws. We will soon wear you down by pure capacity to suffer."
+    },
+    {
+      "quote": "It may be true that the law cannot make a man love me, but it can stop him from lynching me, and I think that's pretty important."
+    },
+    {
+      "quote": "Like an unchecked cancer, hate corrodes the personality and eats away its vital unity. Hate destroys a man's sense of values and his objectivity. It causes him to describe the beautiful as ugly and the ugly as beautiful, and to confuse the true with the false and the false with the true."
+    },
+    {
+      "quote": "Love is the only force capable of transforming an enemy into friend."
+    },
+    {
+      "quote": "Man must evolve for all human conflict a method which rejects revenge, aggression and retaliation. the foundation of such a method is love."
+    },
+    {
+      "quote": "Morality cannot be legislated, but behavior can be regulated. Judicial decrees may not change the heart, but they can restrain the heartless."
+    },
+    {
+      "quote": "Nonviolence is the answer to the crucial political and moral questions of our time the need for mankind to overcome oppression and violence without resorting to oppression and violence. Mankind must evolve for all human conflict a method which rejects revenge, aggression, and retaliation. The foundation of such a method is love."
+    },
+    {
+      "quote": "Nothing in the world is more dangerous than sincere ignorance and consciencious stupidity."
+    },
+    {
+      "quote": "Now, I say to you today my friends, even though we face the difficulties of today and tomorrow, I still have a dream. It is a dream deeply rooted in the American dream. I have a dream that one day this nation will rise up and live out the true meaning of its creed - 'We hold these truths to be self-evident, that all men are created equal.'"
+    },
+    {
+      "quote": "One of the greatest casualties of the war in Vietnam is the Great Society ... shot down on the battlefield of Vietnam."
+    },
+    {
+      "quote": "One who condones evil is just as guilty as the one who perpetrates it."
+    },
+    {
+      "quote": "Our lives begin to end the day we become silent about things that matter."
+    },
+    {
+      "quote": "Our loyalties must transend our race, our tribe, our class, and our nation and this means we must develop a world perspective."
+    },
+    {
+      "quote": "Our scientific power has outrun our spiritual power. We have guided missiles and misguided men."
+    },
+    {
+      "quote": "Rarely do we find men who willingly engage in hard, solid thinking. There is an almost universal quest for easy answers and half-baked solutions. Nothing pains some people more than having to think."
+    },
+    {
+      "quote": "Returning violence for violence multiplies violence, adding deeper darkness to a night already devoid of stars...\nHate can not drive out hate: only love can do that."
+    },
+    {
+      "quote": "Segregation is the adultery of an illicit intercourse between injustice and immorality."
+    },
+    {
+      "quote": "Success, recognition, and conformity are the bywords of the modern world where everyone seems to crave the anesthetizing security of being identified with the majority."
+    },
+    {
+      "quote": "Take the first step in faith. You don't have to see the whole staircase, just take the first step."
+    },
+    {
+      "quote": "Ten thousand fools proclaim themselves into obscurity, while one wise man forgets himself into immortality."
+    },
+    {
+      "quote": "The good neighbor looks beyond the external accidents and discerns those inner qualities that make all men human and, therefore, brothers."
+    },
+    {
+      "quote": "The hope of a secure and livable world lies with disciplined nonconformists who are dedicated to justice, peace and brotherhood."
+    },
+    {
+      "quote": "The hottest place in Hell is reserved for those who remain neutral in times of great moral conflict."
+    },
+    {
+      "quote": "The limitation of riots, moral questions aside, is that they cannot win and their participants know it. Hence, rioting is not revolutionary but reactionary because it invites defeat. It involves an emotional catharsis, but it must be followed by a sense of futility."
+    },
+    {
+      "quote": "The Negro needs the white man to free him from his fears. The white man needs the Negro to free him from his guilt."
+    },
+    {
+      "quote": "The question is no longer between violence and non-violence it is between non-violence and non-existence."
+    },
+    {
+      "quote": "The ultimate measure of a man is not where he stands in moments of comfort, but where he stands at times of challenge and controversy."
+    },
+    {
+      "quote": "There can be no deep disappointment where there is not deep love."
+    },
+    {
+      "quote": "We may have all come on different ships, but we're in the same boat now."
+    },
+    {
+      "quote": "We must combine the toughness of the serpent and the softness of the dove, a tough mind and a tender heart."
+    },
+    {
+      "quote": "We must come to see that peace is not merely a distant goal we seek, but it is a means by which we arrive at that goal. We must pursue peaceful ends through peaceful means."
+    },
+    {
+      "quote": "We must develop and maintain the capacity to forgive. He who is devoid of the power to forgive is devoid of the power to love. There is some good in the worst of us and some evil in the best of us."
+    },
+    {
+      "quote": "We must learn to live together as brothers or perish together as fools."
+    },
+    {
+      "quote": "We shall have to repent in this generation , not so much for the evil deeds of the wicked people, but for the appalling silence of the good people."
+    },
+    {
+      "quote": "We will have to repent in this generation not merely for the hateful words and actions of the bad people but for the appalling silence of the good people."
+    },
+    {
+      "quote": "Whatever affects one directly, affects all indirectly. I can never be what I ought to be until you are what you ought to be. This is the interrelated structure of reality."
+    },
+    {
+      "quote": "When you are right you cannot be too radical when you are wrong, you cannot be too conservative."
+    }
+  ],
+  "Galileo Galilei": [
+    {
+      "quote": "All truths are easy to understand once they are discovered; the point is to discover them."
+    },
+    {
+      "quote": "I do not feel obliged to believe that the same God who has endowed us with sense, reason, and intellect has intended us to forgo their use."
+    },
+    {
+      "quote": "I have never met a man so ignorant that I couldn't learn something from him."
+    },
+    {
+      "quote": "In questions of science the authority of a thousand is not worth the humble reasoning of a single individual."
+    },
+    {
+      "quote": "It has always seemed to me extreme presumptuousness on the part of those who want to make human ability the measure of what nature can and knows how to do, since, when one comes down to it, there is not one effect in nature, no matter how small, that even the most speculative minds can fully understand."
+    },
+    {
+      "quote": "Mathematics is the language with which God has written the universe."
+    },
+    {
+      "quote": "Who am I?"
+    },
+    {
+      "quote": "You cannot teach a man anything, you can only help him to find it within himself."
+    }
+  ],
+  "Mark Twain": [
+    {
+      "quote": "A banker is a fellow who lends you his umbrella when the sun is shining, but wants it back the minute it begins to rain."
+    },
+    {
+      "quote": "A classic is a book which people praise and don't read."
+    },
+    {
+      "quote": "A classic is something that everybody wants to have read and nobody wants to read."
+    },
+    {
+      "quote": "A great person is one who affects the younger generation by his positivity"
+    },
+    {
+      "quote": "A house without a cat, and a well-fed, well-petted, and properly revered cat, may be a perfect house, perhaps, but how can it prove its title --from The Tragedy of Pudd'nhead Wilson"
+    },
+    {
+      "quote": "A human being has a natural desire to have more of a good thing than he needs."
+    },
+    {
+      "quote": "A little starvation can really do more for the average sick man than can the best medicines and the best doctors."
+    },
+    {
+      "quote": "A man cannot be comfortable without his own approval."
+    },
+    {
+      "quote": "A man is accepted into church for what he believes--and turned out for what he knows."
+    },
+    {
+      "quote": "A man never reaches that dizzy height of wisdom that he can no longer be led by the nose."
+    },
+    {
+      "quote": "A man who carries a cat by the tail learns something he can learn in no other way."
+    },
+    {
+      "quote": "A man with a new idea is a crank -- until the idea succeeds."
+    },
+    {
+      "quote": "A patriot is mocked, scorned and hated; yet when his cause succeeds, all men will join him, for then it costs nothing to be a patriot."
+    },
+    {
+      "quote": "A person whom Mark had small regard for, said:\nMark, I recently chanced to pass by your house.\nTo which Mark dryly replied: And may you always continue to do so."
+    },
+    {
+      "quote": "A verb has a hard enough time of it in this world when it is all together. It's downright inhuman to split it up. But that's what those Germans do. They take part of a verb and put it down here, like a stake, and they take the other part of it and put it a way over yonder like another stake, and between these two limits they just shovel in German."
+    },
+    {
+      "quote": "Adam and Eve had many advantages, but the principle one was that they escaped teething."
+    },
+    {
+      "quote": "After all these years I see that I was mistaken about Eve in the beginning it is better to live outside the Garden with her than inside it without her."
+    },
+    {
+      "quote": "Against the assault of laughter, nothing can stand."
+    },
+    {
+      "quote": "Age is an issue of mind over matter. If you don't mind, it doesn't matter."
+    },
+    {
+      "quote": "All generalizations are false, including this one."
+    },
+    {
+      "quote": "All say, \"How hard it is that we have to die\"--a strange complaint to come from the mouths of people who have had to live."
+    },
+    {
+      "quote": "All schools, all colleges have two great functions to confer, and to conceal valuable knowledge. - Notebook, 1908"
+    },
+    {
+      "quote": "All you need in this life is ignorance and confidence -- and then success is sure."
+    },
+    {
+      "quote": "All you need in this life is ignorance and confidence then success is sure."
+    },
+    {
+      "quote": "Always acknowledge a fault. This will throw those in authority off their guard and give you an opportunity to commit more."
+    },
+    {
+      "quote": "Always do right. This will gratify some people and astonish the rest."
+    },
+    {
+      "quote": "An enemy can partly ruin a man, but it takes a good-natured injudicious friend to complete the thing and make it perfect."
+    },
+    {
+      "quote": "An Englishman is a person who does things because they have been done before. An American is a person who does things because they haven't been done before."
+    },
+    {
+      "quote": "At the beginning of a great national change, the patriot is a scarce man: scorned, ridiculed and forgotten. When his cause succeeds, however, all men will join him, for then it costs nothing to be a patriot."
+    },
+    {
+      "quote": "Barring that natural expression of villainy which we all have, the man looked honest enough."
+    },
+    {
+      "quote": "Be careful about reading health books. You may die of a misprint."
+    },
+    {
+      "quote": "Be good and you will be lonesome."
+    },
+    {
+      "quote": "Behold, the fool saith, Put not all thine eggs in the one basket, -- which is but a manner of saying, Scatter your money and your attention, but the wise man saith, Put all your eggs in the one basket and -- watch that basket."
+    },
+    {
+      "quote": "By trying we can easily learn to endure adversity. Another man's, I mean."
+    },
+    {
+      "quote": "Carlyle said, \"A lie cannot live\"; it shows he did not know how to tell them."
+    },
+    {
+      "quote": "Cauliflower is nothing but Cabbage with a College Education."
+    },
+    {
+      "quote": "Censorship is telling a man he can't have a steak just because a baby can't chew it."
+    },
+    {
+      "quote": "Civilization is a limitless multiplication of unnecessary necessaries."
+    },
+    {
+      "quote": "Clothes make the man. Naked people have little or no influence on society."
+    },
+    {
+      "quote": "Cold! If the thermometer had been an inch longer we&#039;d all have frozen to death."
+    },
+    {
+      "quote": "Courage is resistance to fear, mastery of fear - not absence of fear."
+    },
+    {
+      "quote": "Courage is resistance to fear, mastery of fear, not absence of fear."
+    },
+    {
+      "quote": "Denial ain't just a river in Egypt."
+    },
+    {
+      "quote": "Describing her first day back in grade school after a long absence, a teacher said, It was like trying to hold 35 corks under water at the same time."
+    },
+    {
+      "quote": "Do something every day that you don't want to do. This is the golden rule for acquiring the habit of doing your duty without pain."
+    },
+    {
+      "quote": "Do the thing you fear most and the death of fear is certain."
+    },
+    {
+      "quote": "Don't go around saying the world owes you a living. The world owes you nothing. It was here first."
+    },
+    {
+      "quote": "Don't part with your illusions. When they are gone you may still exist, but you have ceased to live."
+    },
+    {
+      "quote": "Drag your thoughts away from your troubles.. by the ears, by the heels, or any other way you can manage it."
+    },
+    {
+      "quote": "During the gold rush its a good time to be in the pick and shovel business."
+    },
+    {
+      "quote": "Each man must for himself alone decide what is right and what is wrong, which course is patriotic and which isn't.  You cannot shirk this and be a man.  To decide against your conviction is to be an unqualified and excusable traitor, both to yourself and to your country, let me label you as they may."
+    },
+    {
+      "quote": "Education consists mainly in what we have unlearned."
+    },
+    {
+      "quote": "Education: that which reveals to the wise, and conceals from the stupid, the vast limits of their knowledge."
+    },
+    {
+      "quote": "Eloquence is the essential thing in a speech, not information."
+    },
+    {
+      "quote": "Everything has its limit--iron ore cannot be educated into gold. - 1906"
+    },
+    {
+      "quote": "Facts are stubborn, but statistics are more pliable."
+    },
+    {
+      "quote": "Fame is a vapor; popularity an accident; the only earthly certainty is oblivion."
+    },
+    {
+      "quote": "Familiarity breeds contempt - and children."
+    },
+    {
+      "quote": "Few sinners are saved after the fiirst twenty minutes of a sermon."
+    },
+    {
+      "quote": "Few things are harder to put up with than the annoyance of a good example."
+    },
+    {
+      "quote": "Fiction is obliged to stick to possibilities. Truth isn't."
+    },
+    {
+      "quote": "Fleas can be taught nearly anything a congressman can."
+    },
+    {
+      "quote": "Forgiveness is the fragrance that the violet sheds upon the heel that crushes it."
+    },
+    {
+      "quote": "Friendship is the marriage of the soul, and this marriage is liable to divorce."
+    },
+    {
+      "quote": "George Washington as a boy was ignorant of the commonest accomplishments of youth - he could not even lie."
+    },
+    {
+      "quote": "Get your facts first and then you can distort them as much as you wish."
+    },
+    {
+      "quote": "Get your facts first, and then you can distort them as much as you please."
+    },
+    {
+      "quote": "Get your facts first, and then you can distort them as much as you please. (Facts are stubborn, but statistics are more pliable.)"
+    },
+    {
+      "quote": "Go and surprise the whole country by doing something right."
+    },
+    {
+      "quote": "God made the Idiot for practice, and then He made the School Board"
+    },
+    {
+      "quote": "Good breeding consists in concealing how much we think of ourselves and how little we think of the other person."
+    },
+    {
+      "quote": "Good breeding consists of concealing how much we think of ourselves and how little we think of the other person."
+    },
+    {
+      "quote": "Great people are those who make others feel that they, too, can become great."
+    },
+    {
+      "quote": "Grief can take care of itself, but to get the full value of a joy you must have somebody to divide it with."
+    },
+    {
+      "quote": "Habit is habit and not to be flung out of the window by any man, but coaxed downstairs a step at a time."
+    },
+    {
+      "quote": "He had discovered a great law of human action, without knowing it - namely, that in order to make a man or a boy covet a thing, it is only necessary to make the thing difficult to obtain."
+    },
+    {
+      "quote": "He would come in and say he changed his mind -- which was a gilded figure of speech, because he didn't have any."
+    },
+    {
+      "quote": "Heaven goes by favour. If it went by merit, you would stay out and your dog would go in."
+    },
+    {
+      "quote": "His ignorance covered the whole earth like a blanket, and there was hardly a hole in it anywhere."
+    },
+    {
+      "quote": "History may not repeat itself, but it sure does rhyme."
+    },
+    {
+      "quote": "Honesty is the best policy - when there is money in it."
+    },
+    {
+      "quote": "How come we rejoice at a birth and grieve at a funeral? It is because we are not the person involved."
+    },
+    {
+      "quote": "How little a thing can make us happy when we feel that we have earned it."
+    },
+    {
+      "quote": "Humor is mankind's greatest blessing."
+    },
+    {
+      "quote": "Humor is the great thing, the saving thing. The minute it crops up, all our irritations and resentments slip away and a sunny spirit takes their place."
+    },
+    {
+      "quote": "Humor is the great thing, the saving thing. The minute it crops up, all our irritations and resentments slip away, and a sunny spirit takes their place."
+    },
+    {
+      "quote": "I admire the serene assurance of those who have religious faith. It is wonderful to observe the calm confidence of a Christian with four aces."
+    },
+    {
+      "quote": "I am an old man and have a great many troubles, But most of them never happened."
+    },
+    {
+      "quote": "I am not one of those who in expressing opinions confine themselves to facts."
+    },
+    {
+      "quote": "I am opposed to millionaires, but it would be dangerous to offer me the position."
+    },
+    {
+      "quote": "I am prepared to meet anyone, but whether anyone is prepared for the great ordeal of meeting me is another matter."
+    },
+    {
+      "quote": "I can live two weeks on a good compliment."
+    },
+    {
+      "quote": "I cannot call to mind a single instance where I have ever been irreverent, except toward the things which were sacred to other people."
+    },
+    {
+      "quote": "I cannot keep from talking, even at the risk of being instructive."
+    },
+    {
+      "quote": "I did it partly because it was worth it, but mostly because I shall never have to do it again."
+    },
+    {
+      "quote": "I did not attend his funeral, but I wrote a nice letter saying I approved it."
+    },
+    {
+      "quote": "I didn't attend the funeral, but I sent a nice letter saying that I approved of it."
+    },
+    {
+      "quote": "I don't give a damn for a man that can only spell a word one way."
+    },
+    {
+      "quote": "I don't like to commit myself about heaven and hell you see, I have friends in both places."
+    },
+    {
+      "quote": "I have a prejudice against people who print things in a foreign language and add no translation. When I am the reader, and the other considers me able to do the translating myself, he pays me the quite a nice compliment-- but if he would do the translating for me I would try to get along without the compliment. (A Tramp Abroad,1880)"
+    },
+    {
+      "quote": "I have never examined the subject of humor until now. I am surprised to find how much ground it covers. I have got its divisions and frontiers down on a piece of paper. I find it defined as a production of the brain, as the power of the brain to produce something humorous, and the capacity of percieving humor."
+    },
+    {
+      "quote": "I have never let my schooling interfere with my education."
+    },
+    {
+      "quote": "I have never taken any exercise except sleeping and resting."
+    },
+    {
+      "quote": "I have spent most of my time worrying about things that have never happened."
+    },
+    {
+      "quote": "I must have a prodigious quantity of mind it takes me as much as a week, sometimes, to make it up."
+    },
+    {
+      "quote": "I never could tell a lie that anybody would doubt, nor a truth that anybody would believe."
+    },
+    {
+      "quote": "I never let schooling interfere with my education."
+    },
+    {
+      "quote": "I never write Metropolis for seven cents because I can get the same price for city. I never write policeman because I can get the same money for cop."
+    },
+    {
+      "quote": "I smoke in moderation, only one cigar at a time."
+    },
+    {
+      "quote": "I thoroughly disapprove of duels. If a man should challenge me, I would take him kindly and forgivingly by the hand and lead him to a quiet place and kill him."
+    },
+    {
+      "quote": "I was born modest. Not all over, but in spots."
+    },
+    {
+      "quote": "I was gratified to be able to answer promptly. I said I don't know."
+    },
+    {
+      "quote": "I'm in favor of progress; it's change I don't like."
+    },
+    {
+      "quote": "I've come loaded with statistics, for I've noticed that a man can't prove anything without statistics."
+    },
+    {
+      "quote": "I've had a lot of worries in my life, most of which never happened."
+    },
+    {
+      "quote": "If Christ were here now, there is one thing he would not be… a Christian."
+    },
+    {
+      "quote": "If the desire to kill and the opportunity to kill always came together, who would escape hanging?"
+    },
+    {
+      "quote": "If we had less statemanship we could get along with fewer battleships."
+    },
+    {
+      "quote": "If you don't read the newspaper, you're uninformed. If you read the newspaper, you're mis-informed."
+    },
+    {
+      "quote": "If you pick up a starving dog and make him prosperous, he will not bite you; that is the principal difference between a dog and a man."
+    },
+    {
+      "quote": "If you take a dog which is starving and feed him and make him prosperous, that dog will not bite you. This is the primary difference between a dog and a man."
+    },
+    {
+      "quote": "If you tell the truth, you don't have to remember anything."
+    },
+    {
+      "quote": "Imagination is always the fabric of social life and the dynamic of history. The influence of real needs and compulsions, of real interests and materials, is indirect because the crowd is never conscious of it."
+    },
+    {
+      "quote": "In certain trying circumstances, urgent circumstances, desperate circumstances, profanity furnishes a relief denied even to prayer."
+    },
+    {
+      "quote": "In Marseilles they make half the toilet soap we consume in America, but the Marseillaise only have a vague theoretical idea of its use, which they have obtained from books of travel."
+    },
+    {
+      "quote": "In our country we have those three unspeakably precious things: freedom of speech, freedom of conscience, and the prudence never to practice either."
+    },
+    {
+      "quote": "In Paris they simply stared when I spoke to them in French I never did succeed in making those idiots understand their language."
+    },
+    {
+      "quote": "In religion and politics people's beliefs and convictions are in almost every case gotten at second-hand, and without examination, from authorities who have not themselves examined the questions at issue but have taken them at second-hand from other non-examiners, whose opinions about them were not worth a brass farthing."
+    },
+    {
+      "quote": "In religion and politics, people's beliefs and convictions are in almost every case gotten at second hand, and without examination."
+    },
+    {
+      "quote": "In the first place, God made idiots. That was for practice. Then he made school boards"
+    },
+    {
+      "quote": "In the first place, God made idiots. That was for practice. Then he made school boards."
+    },
+    {
+      "quote": "Irreverence is the champion of liberty and its one sure defense."
+    },
+    {
+      "quote": "It could probably be show by facts and figures that there is no distinctively native American criminal class except Congress."
+    },
+    {
+      "quote": "It could probably be shown by facts and figures that there is no distinctly American criminal class except Congress."
+    },
+    {
+      "quote": "It has always been my rule never to smoke when asleep, and never to refrain when awake."
+    },
+    {
+      "quote": "It is a mistake that there is no bath that will cure people&#039;s manners, but drowning would help."
+    },
+    {
+      "quote": "It is better to deserve honors and not have them than to have them and not deserve them."
+    },
+    {
+      "quote": "It is better to deserve honors and not have them than to have them and not to deserve them."
+    },
+    {
+      "quote": "It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt."
+    },
+    {
+      "quote": "It is by the goodness of God that in our country we have those three unspeakably precious things freedom of speech, freedom of conscience, and the prudence never to practice either of them."
+    },
+    {
+      "quote": "It is curious that physical courage should be so common in the world and moral courage so rare."
+    },
+    {
+      "quote": "It is discouraging to try and penetrate a mind like yours. You ought to get it out and dance on it. That would take some of the rigidity out of it."
+    },
+    {
+      "quote": "It is easier to stay out than get out."
+    },
+    {
+      "quote": "It is noble to teach oneself, but still nobler to teach others--and less trouble. - speech, 1906"
+    },
+    {
+      "quote": "It is noble to teach oneself, it is still nobler to teach others."
+    },
+    {
+      "quote": "It is the difference of opinion that makes horse races."
+    },
+    {
+      "quote": "It takes your enemy and your friend, working together, to hurt you: the one to slander you, and the other to bring the news to you."
+    },
+    {
+      "quote": "It takes your enemy and your friend,working together,to hurt you to your heart:the one to slander you and the other to bring the news to you."
+    },
+    {
+      "quote": "It usually takes more than three weeks to prepare a good impromptu speech."
+    },
+    {
+      "quote": "It was enough to make a body ashamed of the human race."
+    },
+    {
+      "quote": "It was wonderful to find America, but it would have been more wonderful to miss it."
+    },
+    {
+      "quote": "It were not best that we should all think alike it is the difference of opinion that makes horse races. - from Pudd'nhead Wilson"
+    },
+    {
+      "quote": "It's easier to fool people than to convince them that they have been fooled.”"
+    },
+    {
+      "quote": "It's not that I'm afraid to die, I just don't want to be there when it happens."
+    },
+    {
+      "quote": "It's not the size of the dog in the fight, it's the size of the fight in the dog."
+    },
+    {
+      "quote": "Just the omission of Jane Austen's books alone would make a fairly good library out of a library that hadn't a book in it."
+    },
+    {
+      "quote": "Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great."
+    },
+    {
+      "quote": "Kindness is a language which the deaf can hear, and the blind can read."
+    },
+    {
+      "quote": "Kindness is the language which the deaf can hear and the blind can see."
+    },
+    {
+      "quote": "Language is a city to the building of which every human being brought a stone."
+    },
+    {
+      "quote": "Laws are sand, customs are rock. Laws can be evaded and punishment escaped but an openly transgressed custom brings sure punishment."
+    },
+    {
+      "quote": "Let us endeavor so to live that when we come to die even the undertaker will be sorry."
+    },
+    {
+      "quote": "Let us not be too particular; it is better to have old secondhand diamonds than none at all."
+    },
+    {
+      "quote": "Life is so beautiful. Nobody can control your life"
+    },
+    {
+      "quote": "Lord save us all from old age and broken health and a hope tree that has lost the faculty of putting out blossoms."
+    },
+    {
+      "quote": "Love seems the swiftest, but it is the slowest of growths. No man or woman really knows what perfect love is until they have been married a quarter of a century."
+    },
+    {
+      "quote": "Loyalty to petrified opinion never yet broke a chain or freed a human soul."
+    },
+    {
+      "quote": "lying to them is bad! I am a real person!"
+    },
+    {
+      "quote": "Man is the only animal that blushes -- or needs to."
+    },
+    {
+      "quote": "Man is the only animal that blushes. Or needs to."
+    },
+    {
+      "quote": "Man will do many things to get himself loved he will do all things to get himself envied."
+    },
+    {
+      "quote": "Many a small thing has been made large by the right kind of advertising."
+    },
+    {
+      "quote": "Most people are bothered by those passages of Scripture they do not understand, but the passages that bother me are those I do understand."
+    },
+    {
+      "quote": "My kind of loyalty was to one's country, not to its institutions or its officeholders. The country is the real thing, the substantial thing, the eternal thing; it is the thing to watch over, and care for, and be loyal to; institutions are extraneous, they are its mere clothing, and clothing can wear out, become ragged, cease to be comfortable, cease to protect the body from winter, disease, and death."
+    },
+    {
+      "quote": "My mother had a great deal of trouble with me, but I think she enjoyed it."
+    },
+    {
+      "quote": "Necessity is the mother of taking chances."
+    },
+    {
+      "quote": "Never allow someone to be your priority while allowing yourself to be their option."
+    },
+    {
+      "quote": "Never put off until tomorrow what you can do the day after tomorrow."
+    },
+    {
+      "quote": "Never tell the truth to those unworthy of it...."
+    },
+    {
+      "quote": "Nothing so needs reforming as other people's habits."
+    },
+    {
+      "quote": "Now what I contend is that my body is my own, at least I have always so regarded it. If I do harm through my experimenting with it, it is I who suffers, not the state."
+    },
+    {
+      "quote": "October is one of the peculiarly dangerous months to speculate in stocks. Others are July, January, April, September, November, May, March, June, December, August and February."
+    },
+    {
+      "quote": "Of the delights of this world man cares most for sexual intercourse, yet he has left it out of his heaven."
+    },
+    {
+      "quote": "Often it does seem a pity that Noah and his party did not miss the boat."
+    },
+    {
+      "quote": "Often, the surest way to convey misinformation is to tell the strict truth."
+    },
+    {
+      "quote": "On his deathbed Death, the only immortal who treats us all alike, whose pity and whose peace and whose refuse are for all -- the soiled and the pure, the rich and the poor, the loved and the unloved."
+    },
+    {
+      "quote": "One of the most striking differences between a cat and a lie is that a cat has only nine lives."
+    },
+    {
+      "quote": "Our opinions do not really blossom into fruition until we have expressed them to someone else."
+    },
+    {
+      "quote": "Part of the secret of success in life is to eat what you like and let the food fight it out inside."
+    },
+    {
+      "quote": "Pessimism is only the name that men of weak nerve give to wisdom."
+    },
+    {
+      "quote": "Politicians and diapers must be changed often, and for the same reason."
+    },
+    {
+      "quote": "Principles have no real force except when one is well fed."
+    },
+    {
+      "quote": "Principles have no real force except when one is well-fed."
+    },
+    {
+      "quote": "Providence protects children and idiots. I know because I have tested it."
+    },
+    {
+      "quote": "Quitting smoking is easy, I've done it hundreds of times."
+    },
+    {
+      "quote": "Reader, suppose you were an idiot.\nAnd suppose you were a member of Congress. But I repeat myself."
+    },
+    {
+      "quote": "Reader, suppose you were an idiot. And suppose you were a member of Congress. But I repeat myself."
+    },
+    {
+      "quote": "Religion consists in a set of things which the average man thinks he believes and wishes he was certain of."
+    },
+    {
+      "quote": "Religion consists of a set of things which the average man thinks he believes and wishes he was certain."
+    },
+    {
+      "quote": "Sacred cows make the best hamburgers."
+    },
+    {
+      "quote": "Sane and intelligent human beings are like all other human beings, and carefully and cautiously and diligently conceal their private real opinions from the world and give out fictitious ones in their stead for general consumption."
+    },
+    {
+      "quote": "Sanity and happiness are an impossible combination."
+    },
+    {
+      "quote": "So far as I am able to judge, nothing has been left undone, either by man or nature, to make India the most extraordinary country that the sun visits on his rounds. Nothing seems to have been forgotten, nothing overlooked."
+    },
+    {
+      "quote": "Soap and education are not as sudden as a massacre but they are more deadly in the long run."
+    },
+    {
+      "quote": "Some men worship rank, some worship heroes, some worship power, some worship God, and over these ideals they dispute, but they all worship money."
+    },
+    {
+      "quote": "Some people get an eduction without going to college the rest get it after they get out."
+    },
+    {
+      "quote": "Somewhere between the Angels and the French lies the rest of humanity."
+    },
+    {
+      "quote": "Statistics show that we lose more fools on this day than on all other days of the year put together. This proves, by the numbers left in stock, that one Fourth of July per year is now inadequate, the country has grown so."
+    },
+    {
+      "quote": "Suppose you were an idiot, and suppose you were a member of congress but I repeat myself."
+    },
+    {
+      "quote": "The best cure for Christianity is reading the Bible."
+    },
+    {
+      "quote": "The best way to cheer yourself up is to try to cheer somebody else up."
+    },
+    {
+      "quote": "The best way to cheer yourself up is to try to cheer someone else up."
+    },
+    {
+      "quote": "The billiard table is better than the doctor."
+    },
+    {
+      "quote": "The coldest winter I ever spent was a summer in San Francisco."
+    },
+    {
+      "quote": "The difference between the right word and the almost right word is the difference between lightning and a lightning bug."
+    },
+    {
+      "quote": "The fact that man knows right from wrong proves his intellectual superiority to other creatures but the fact that he can do wrong proves his moral inferiority to any creature that cannot."
+    },
+    {
+      "quote": "The first of April is the day we remember what we are the other 364 days of the year."
+    },
+    {
+      "quote": "The history of our race, and each individual's experience, are sown thick with evidence that a truth is not hard to kill and that a lie told well is immortal."
+    },
+    {
+      "quote": "The holy passion of Friendship is of so sweet and steady and loyal and enduring a nature that it will last through a whole lifetime, if not asked to lend money."
+    },
+    {
+      "quote": "The human race has one really effective weapon, and that is laughter."
+    },
+    {
+      "quote": "The man who does not read good books has no advantage over the man who cannot read them."
+    },
+    {
+      "quote": "The man who is a pessimist before 48 knows too much if he is an optimist after it, he knows too little."
+    },
+    {
+      "quote": "The mania for giving the Government power to meddle with the private affairs of cities or citizens is likely to cause endless trouble, through the rivaly of schools and creeds that are anxious to obtain official recognition, and there is great danger that our people will lose our independence of thought and action which is the cause of much of our greatness, and sink into the helplessness of the Frenchman or German who expects his government to feed him when hungry, clothe him when naked, to prescribe when his child may be born and when he may die, and, in time, to regulate every act of humanity from the cradle to the tomb, including the manner in which he may seek future admission to paradise."
+    },
+    {
+      "quote": "The miracle, or the power, that elevates the few is to be found in their industry, application, and perseverance under the prompting of a brave, determined spirit."
+    },
+    {
+      "quote": "The proper office of a friend is to side with you when you are wrong. Nearly anybody will side with you when you are right."
+    },
+    {
+      "quote": "The radical of one century is the conservative of the next. The radical invents the views. When he has worn them out the conservative adopts them."
+    },
+    {
+      "quote": "The report of my death was an exaggeration."
+    },
+    {
+      "quote": "The right word may be effective, but no word was ever as effective as a rightly timed pause."
+    },
+    {
+      "quote": "The rule is perfect in all matters of opinion our adversaries are insane."
+    },
+    {
+      "quote": "The secret source of humour itself is not joy, but sorrow. There is no humour in heaven."
+    },
+    {
+      "quote": "The trouble isn't that there are too many fools, but that the lightning isn't distributed right."
+    },
+    {
+      "quote": "The two most important days in your life are the day you are born and the day you find out why."
+    },
+    {
+      "quote": "The universal brotherhood of man is our most precious possession."
+    },
+    {
+      "quote": "The very ink with which history is written is merely fluid prejudice."
+    },
+    {
+      "quote": "The worst loneliness is not to be comfortable with yourself."
+    },
+    {
+      "quote": "There are lies, damned lies, and statistics."
+    },
+    {
+      "quote": "There are people who strictly deprive themselves of each and every eatable, drinkable, and smokable which has in any way acquired a shady reputation. They pay this price for health. And health is all they get for it. How strange it is. It is like paying out your whole fortune for a cow that has gone dry."
+    },
+    {
+      "quote": "There are several good protections against temptations, but the surest is cowardice."
+    },
+    {
+      "quote": "There are some books that refuse to be written. They stand their ground year after year and will not be persuaded. It isn't because the book is not there and worth being written -- it is only because the right form of the story does not present itself. There is only one right form for a story and if you fail to find that form the story will not tell itself."
+    },
+    {
+      "quote": "There are times when one would like to end the whole human race, and finish the farce."
+    },
+    {
+      "quote": "There are times when one would like to hang the whole human race and finish the farce."
+    },
+    {
+      "quote": "There are two times in a man's life when he should not speculate when he can't afford it, and when he can. - from Following the Equator"
+    },
+    {
+      "quote": "There is no distinctly native American criminal class except Congress."
+    },
+    {
+      "quote": "There is no sadder sight than a young pessimist, except an old optimist."
+    },
+    {
+      "quote": "There is no sadder sight than a young pessimist."
+    },
+    {
+      "quote": "There is no such thing as the Queen's English. The property has gone into the hands of a joint stock company and we own the bulk of the shares"
+    },
+    {
+      "quote": "There is nothing so annoying as to have two people talking when you're busy interrupting."
+    },
+    {
+      "quote": "There is nothing training cannot do. Nothing is above its reach. It can turn bad morals to good; it can destroy bad principles and recreate good ones; it can lift men to angelship."
+    },
+    {
+      "quote": "There is something fascinating about science. One gets such wholesale returns of conjecture out of such a trifling investment of fact."
+    },
+    {
+      "quote": "There ought to be a room in every house to swear in."
+    },
+    {
+      "quote": "This is the day upon which we are reminded of what we are on the other three hundred and sixty-four."
+    },
+    {
+      "quote": "Those that respect the law and love sausage should watch neither being made."
+    },
+    {
+      "quote": "Those who say truth is stranger than fiction have wasted their time on poorly written fiction."
+    },
+    {
+      "quote": "Thousands of geniuses live and die undiscovered - either by themselves or by others."
+    },
+    {
+      "quote": "Time cools, time clarifies no mood can be maintained quite unaltered through the course of hours."
+    },
+    {
+      "quote": "Time cools, time clarifies; no mood can be maintained quite unaltered through the course of hours."
+    },
+    {
+      "quote": "To be good is noble, but to teach others how to be good is nobler--and less trouble."
+    },
+    {
+      "quote": "To cease smoking is the easiset thing I ever did. I ought to know, I've done it a thousand times."
+    },
+    {
+      "quote": "Tomorrow night I appear for the first time before a Boston audience of 4000 critics."
+    },
+    {
+      "quote": "Training is everything. The peach was once a bitter almond cauliflower is nothing but cabbage with a college education."
+    },
+    {
+      "quote": "Travel is fatal to prejudice, bigotry, and narrow-mindedness."
+    },
+    {
+      "quote": "Travel is lethal to prejudice."
+    },
+    {
+      "quote": "Truth is more of a stranger than fiction."
+    },
+    {
+      "quote": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do."
+    },
+    {
+      "quote": "Under certain circumstances, profanity provides a relief denied even to prayer."
+    },
+    {
+      "quote": "Virtue has never been as respectable as money."
+    },
+    {
+      "quote": "Wagner's music is better than it sounds."
+    },
+    {
+      "quote": "Water, taken in moderation, cannot hurt anybody."
+    },
+    {
+      "quote": "We all have thoughts that would shame the devil."
+    },
+    {
+      "quote": "We all live in the protection of certain cowardices which we call our principles."
+    },
+    {
+      "quote": "We are always more anxious to be distinguished for a talent which we do not possess, than to be praised for the fifteen which we do possess."
+    },
+    {
+      "quote": "We are always too busy for our children; we never give them the time or interest they deserve. We lavish gifts upon them; but the most precious gift, our personal association, which means so much to them, we give grudgingly."
+    },
+    {
+      "quote": "We are called the nation of inventors. And we are. We could still claim that title and wear its loftiest honors if we had stopped with the first thing we ever invented, which was human liberty."
+    },
+    {
+      "quote": "We are chameleons, and our partialities and prejudices change place with an easy and blessed facility, and we are soon wonted to the change and happy in it."
+    },
+    {
+      "quote": "We had the sky up there, and we used to lay on our backs and look up at them, and discuss whether they was made or just happened."
+    },
+    {
+      "quote": "We have a criminal jury system which is superior to any in the world and its efficiency is only marred by the difficulty of finding twelve men every day who don't know anything and can't read."
+    },
+    {
+      "quote": "We owe a deep debt of gratitude to Adam, the first great benefactor of the human race: he brought death into the world."
+    },
+    {
+      "quote": "We should be careful to get out of an experience only the wisdom that is in it - and stop there lest we be like the cat that sits down on a hot stove-lid. She will never sit down on a hot stove-lid again - and that is well but also she will never sit down on a cold one anymore."
+    },
+    {
+      "quote": "What a good thing Adam had. When he said a good thing he knew nobody had said it before."
+    },
+    {
+      "quote": "What counts is not necessarily the size of the dog in the fight, what counts is the size of the fight in the dog."
+    },
+    {
+      "quote": "Whatever thing men call great, look for it in Joan of Arc, and there you will find it."
+    },
+    {
+      "quote": "When a person cannot deceive himself the chances are against his being able to deceive other people."
+    },
+    {
+      "quote": "When angry, count four; when very angry, swear."
+    },
+    {
+      "quote": "When I was a boy of fourteen, my father was so ignorant I could hardly stand to have the old man around. But when I got to be twenty-one, I was astonished at how much the old man had learned in seven years."
+    },
+    {
+      "quote": "When I was a child people simply looked about them and were moderately happy. Today they peer beyond the seven seas, bury themselves waist deep in tidings, and by and large what they see and hear makes them unutterably sad."
+    },
+    {
+      "quote": "When I was fourteen, my father was so ignorant I could hardly stand to have him around. When I got to be twenty-one, I was astonished at how much he had learned in seven years."
+    },
+    {
+      "quote": "When I was younger, I could remember anything, whether it had happened or not."
+    },
+    {
+      "quote": "When in doubt, tell the truth."
+    },
+    {
+      "quote": "When one has tasted watermelon he knows what the angels eat."
+    },
+    {
+      "quote": "When people do not respect us we are sharply offended; yet deep down in his private heart no man much respects himself."
+    },
+    {
+      "quote": "When we remember we are all mad, the mysteries disappear and life stands explained."
+    },
+    {
+      "quote": "When you cannot get a compliment any other way pay yourself one."
+    },
+    {
+      "quote": "Whenever the literary German dives into a sentence, that is the last you are going to see of him until he emerges on the other side of his atlantic with his verb in his mouth."
+    },
+    {
+      "quote": "Whenever you find that you are on the side of the majority, it is time to reform."
+    },
+    {
+      "quote": "Whenever you find yourself on the side of the majority, it's time to pause and reflect."
+    },
+    {
+      "quote": "Why is it that we rejoice at a birth and grieve at a funeral? It is because we are not the person involved."
+    },
+    {
+      "quote": "Why shoudn't truth be stranger than fiction Fiction, after all, has to stick to the possibilities."
+    },
+    {
+      "quote": "Work and play are words used to describe the same thing under differing conditions."
+    },
+    {
+      "quote": "Work consists of whatever a body is obliged to do. Play consists of whatever a body is not obliged to do."
+    },
+    {
+      "quote": "Work is a necessary evil to be avoided."
+    },
+    {
+      "quote": "Wrinkles should merely indicate where smiles have been."
+    },
+    {
+      "quote": "You cannot depend on your eyes when your imagination is out of focus."
+    },
+    {
+      "quote": "Youth, large, lusty, loving- Youth, full of grace, force, fascination. Do you know that Old Age may come after you with equal grace, force, fascination"
+    },
+    {
+      "quote": "[He was] a solemn, unsmiling, sanctimonious old iceberg who looked like he was waiting for a vacancy in the Trinity."
+    },
+    {
+      "quote": "…[I]n order to make a man or a boy covet a thing, it is only necessary to make the thing difficult to obtain."
+    }
+  ],
+  "Benjamin Franklin": [
+    {
+      "quote": "A Bible and a newspaper in every house, a good school in every district - all studied and appreciated as they merit - are the principal support of virtue, morality, and civil liberty."
+    },
+    {
+      "quote": "A countryman between two lawyers is like a fish between two cats."
+    },
+    {
+      "quote": "A democracy is two wolves and a small lamb voting on what to have for dinner. Freedom under a constitutional republic is a well armed lamb contesting the vote. (Misattributed)"
+    },
+    {
+      "quote": "A good conscience is a continual Christmas."
+    },
+    {
+      "quote": "A life of leisure and a life of laziness are two different things."
+    },
+    {
+      "quote": "A nation of well informed men who have been taught to know and prize the rights which God has given them cannot be enslaved. It is in the region of ignorance that tyranny begins."
+    },
+    {
+      "quote": "A penny saved is a penny earned."
+    },
+    {
+      "quote": "A slip of the foot you may soon recover, but a slip of the tongue you may never get over."
+    },
+    {
+      "quote": "After three days men grow weary of a wench, a guest, and rainy weather."
+    },
+    {
+      "quote": "All cats are gray in the dark."
+    },
+    {
+      "quote": "All human situations have their inconveniences. We feel those of the present but neither see nor feel those of the future; and hence we often make troublesome changes without amendment, and frequently for the worse."
+    },
+    {
+      "quote": "All mankind is divided into three classes: those who are immovable, those who are movable and those who move."
+    },
+    {
+      "quote": "All the property that is necessary to a Man, for the Conservation of the Individual and the Propagation of the Species, is his\nnatural Right, which none can justly deprive him of: But all Property superfluous to such purposes is the Property of the\nPublick, who, by their Laws, have created it, and who may therefore by other laws dispose of it, whenever the Welfare of the Publick shall demand such Disposition. He that does not like civil Society on these Terms, let him retire and live among Savages. He can have no right to the benefits of Society, who will not pay his Club towards the Support of it."
+    },
+    {
+      "quote": "All would live long, but none would be old."
+    },
+    {
+      "quote": "Ambition has its disappointments to sour us..."
+    },
+    {
+      "quote": "An investment in knowledge always pays the best interest."
+    },
+    {
+      "quote": "An investment in knowledge pays the best interest."
+    },
+    {
+      "quote": "An investment in knowledge still yields the best returns."
+    },
+    {
+      "quote": "Anger is never without a reason but seldom a good one."
+    },
+    {
+      "quote": "Any fool can criticize, condemn and complain and most fools do."
+    },
+    {
+      "quote": "Any fool can criticize, condemn, and complain, and most fools do."
+    },
+    {
+      "quote": "As we must account for every idle word, so must we account for every idle silence."
+    },
+    {
+      "quote": "At 20 years of age the will reigns, at 30 the wit, at 40 the judgment."
+    },
+    {
+      "quote": "Be at war with your vices, at peace with your neighbors, and let every New Year find you a better man"
+    },
+    {
+      "quote": "Be civil to all sociable to many familiar with few friend to one enemy to none."
+    },
+    {
+      "quote": "Be civil to all; sociable to many; familiar with few; friend to one; enemy to none."
+    },
+    {
+      "quote": "Be slow in choosing a friend, slower in changing."
+    },
+    {
+      "quote": "Beer is Proof that God Loves Us and Wants Us to be Happy!"
+    },
+    {
+      "quote": "Beware of the young doctor and the old barber."
+    },
+    {
+      "quote": "But in this world nothing can be said to be certain, except death and taxes."
+    },
+    {
+      "quote": "By failing to prepare, you are preparing to fail."
+    },
+    {
+      "quote": "By heaven we understand a state of happiness infinite in degree, and endless in duration."
+    },
+    {
+      "quote": "Creditors have better memories than debtors."
+    },
+    {
+      "quote": "Critics are our friends, they tell us our faults."
+    },
+    {
+      "quote": "Democracy is two wolves and a lamb voting on what to have for lunch.  Liberty is a well-armed lamb contesting the vote!"
+    },
+    {
+      "quote": "Diligence is the mother of good luck."
+    },
+    {
+      "quote": "Distrust and caution are the parents of security."
+    },
+    {
+      "quote": "Do good to thy Friend to keep him, to thy enemy to gain him."
+    },
+    {
+      "quote": "Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight."
+    },
+    {
+      "quote": "Dost thou love life Then do not squander time, for that's the stuff life is made of."
+    },
+    {
+      "quote": "Dost thou love life? Than do not squander time, for it is the stuff life is made of."
+    },
+    {
+      "quote": "Dost thou love life? Then do not squander time, for that is the stuff life is made of."
+    },
+    {
+      "quote": "Drive thy business or it will drive thee."
+    },
+    {
+      "quote": "Early morning hath gold in its mouth."
+    },
+    {
+      "quote": "Early to bed and early to rise makes a man healthy, wealthy, and wise."
+    },
+    {
+      "quote": "Early to bed and early to rise, makes a man happy wealthy and wise."
+    },
+    {
+      "quote": "Educate your children to self-control, to the habit of holding passion and prejudice and evil tendencies subject to an upright and reasoning will, and you have done much to abolish misery from their future and crimes from society."
+    },
+    {
+      "quote": "Employ thy time well, if thou meanest to get leisure."
+    },
+    {
+      "quote": "Energy and persistence conquer all thing."
+    },
+    {
+      "quote": "Energy and persistence conquer all things."
+    },
+    {
+      "quote": "Even peace may be purchased at too high a price."
+    },
+    {
+      "quote": "Experience is a dear teacher, but fools will learn at no other."
+    },
+    {
+      "quote": "Experience keeps a dear school, but fools will learn in no other."
+    },
+    {
+      "quote": "Fear God, and your enemies will fear you."
+    },
+    {
+      "quote": "Fish and visitors smell in three days."
+    },
+    {
+      "quote": "Five thousand balloons, capable of raising two men each, could not cost more than five ships of the line; and where is the prince who can afford so to cover his country with troops for its defense as that 10,000 men descending from the clouds might not in many places do an infinite deal of mischief before a force could be brought together to repel them?"
+    },
+    {
+      "quote": "For the want of a nail, the shoe was lose; for the want of a shoe the horse was lose; and for the want of a horse the rider was lost, being overtaken and slain by the enemy, all for the want of care about a horseshoe nail."
+    },
+    {
+      "quote": "Genius without education is like silver in the mine."
+    },
+    {
+      "quote": "Glass, china and reputation are easily cracked, and never well mended."
+    },
+    {
+      "quote": "God heals, and the doctor takes the fee."
+    },
+    {
+      "quote": "God heals, and the doctor takes the fees."
+    },
+    {
+      "quote": "God helps them that help themselves"
+    },
+    {
+      "quote": "Having been poor is no shame, but being ashamed of it, is."
+    },
+    {
+      "quote": "He does not possess wealth it possesses him."
+    },
+    {
+      "quote": "He is a fool that cannot conceal his wisdom."
+    },
+    {
+      "quote": "He is ill clothed that is bare of virtue."
+    },
+    {
+      "quote": "He that blows the coals in quarrels that he has nothing to do with, has no right to complain if the sparks fly in his face"
+    },
+    {
+      "quote": "He that can have patience can have what he will."
+    },
+    {
+      "quote": "He that falls in love with himself will have no rivals."
+    },
+    {
+      "quote": "He that has done you a kindness will be more ready to do you another, than he whom you yourself have obliged."
+    },
+    {
+      "quote": "He that is good at making excuses is seldom good at anything else."
+    },
+    {
+      "quote": "He that is good for making excuses is seldom good for anything else."
+    },
+    {
+      "quote": "He that is of the opinion money will do everything may well be suspected of doing everything for money."
+    },
+    {
+      "quote": "He that lies down with dogs, shall rise up with fleas."
+    },
+    {
+      "quote": "He that lives upon hope will die fasting."
+    },
+    {
+      "quote": "He that would live in peace and at ease, must not speak all he knows nor judge all he sees."
+    },
+    {
+      "quote": "He was so learned that he could name a horse in nine languages so ignorant that he bought a cow to ride on."
+    },
+    {
+      "quote": "He who multiplies riches multiplies cares."
+    },
+    {
+      "quote": "He who shall introduce into public affairs the principles of primitive Christianity will change the face of the world."
+    },
+    {
+      "quote": "Hide not your talents, they for use were made. What's a sun-dial in the shade"
+    },
+    {
+      "quote": "How many observe Christ's birthday How few, his precepts O 'tis easier to keep holidays than commandments."
+    },
+    {
+      "quote": "I am a strong believer in luck and I find the harder I work the more I have of it."
+    },
+    {
+      "quote": "I am in the prime of senility."
+    },
+    {
+      "quote": "I believe I shall,in some shape or other,always exist; and, with all the inconveniences human life is liable to, I shall not object to a new edition of mine, hoping, however, that the errata of the last may be corrected."
+    },
+    {
+      "quote": "I believe there is one Supreme most perfect being."
+    },
+    {
+      "quote": "I cannot conceive otherwise than that He, the Infinite Father, expects or requires no worship or praise from us, but that He is even infinitely above it."
+    },
+    {
+      "quote": "I have been apt to think that there has never been, nor ever will be, any such thing as a good war, or a bad peace."
+    },
+    {
+      "quote": "I know not which lives more unnatural lives, obeying husbands, or commanding wives."
+    },
+    {
+      "quote": "I resolve to speak ill of no man whatever, not even in a matter of truth but rather by some means excuse the faults I hear charged upon others, and upon proper occasions speak all the good I know of everybody."
+    },
+    {
+      "quote": "If a man empties his purse into his head, no man can take it away from him. An investment in knowledge always pays the best interest."
+    },
+    {
+      "quote": "If everyone&#039;s thinking alike then NO ONE is thinking."
+    },
+    {
+      "quote": "If Jack's in love, he's no judge of Jill's beauty."
+    },
+    {
+      "quote": "If you know how to spend less than you get, you have the philosopher's stone."
+    },
+    {
+      "quote": "If you would be loved, love and be lovable."
+    },
+    {
+      "quote": "If you would be wealthy, think of saving as well as getting."
+    },
+    {
+      "quote": "If you would not be forgotten as soon as you are dead, either write something worth reading or do things worth writing."
+    },
+    {
+      "quote": "If you would not be forgotten as soon as you are dead, either write things worth reading, or do things worth writing."
+    },
+    {
+      "quote": "If you would persuade, you must appeal to interest rather than intellect."
+    },
+    {
+      "quote": "If you wouldst live long, live well, for folly and wickedness shorten life."
+    },
+    {
+      "quote": "If your head is wax, don't walk in the sun."
+    },
+    {
+      "quote": "In my youth I travelled much, and I observed in different countries, that the more public provisions were made for the poor, the less they provided for themselves, and of course became poorer. And, on the contrary, the less was done for them, the more they did for themselves, and became richer. There is no country in the world where so many provisions are established for them; so many hospitals to receive them when they are sick or lame, founded and maintained by voluntary charities; so many alms-houses for the aged of both sexes, together with a solemn general law made by the rich to subject their estates to a heavy tax for the support of the poor. Under all these obligations, are our poor modest, humble, and thankful; and do they use their best endeavours to maintain themselves, and lighten our shoulders of this burthen? — On the contrary, I affirm that there is no country in the world in which the poor are more idle, dissolute, drunken, and insolent. The day you passed that act, you took away from before their eyes the greatest of all inducements to industry, frugality, and sobriety, by giving them a dependance on somewhat else than a careful accumulation during youth and health, for support in age or sickness. In short, you offered a premium for the encouragement of idleness, and you should not now wonder that it has had its effect in the increase of poverty."
+    },
+    {
+      "quote": "In rivers and bad governments, the lightest things swim at the top."
+    },
+    {
+      "quote": "In this world nothing can be said to be certain, except death and taxes."
+    },
+    {
+      "quote": "In those wretched countries where a man cannot call his tongue his own, he can scarce call anything his own.  Whoever would overthrow the liberty of a nation must begin by subduing the freeness of speech."
+    },
+    {
+      "quote": "It is a common observation here that our cause is the cause of all mankind, and that we are fighting for their liberty in defending our own."
+    },
+    {
+      "quote": "It is easier to prevent bad habits than to break them."
+    },
+    {
+      "quote": "It is the working man who is the happy man. It is the idle man who is the miserable man."
+    },
+    {
+      "quote": "It isn't what you know that counts, it's what you think of in time."
+    },
+    {
+      "quote": "Justice will not be served until those who are unaffected are as outraged as those who are."
+    },
+    {
+      "quote": "Keep thy eyes wide open before marriage, and half-shut afterwards."
+    },
+    {
+      "quote": "Kill no more pigeons than you can eat."
+    },
+    {
+      "quote": "Laws too gentle are seldom obeyed; too severe, seldom executed."
+    },
+    {
+      "quote": "Life's Tragedy is that we get old to soon and wise too late."
+    },
+    {
+      "quote": "Little strokes fell great oaks."
+    },
+    {
+      "quote": "Lost time is never found again."
+    },
+    {
+      "quote": "Love your Enemies, for they tell you your faults."
+    },
+    {
+      "quote": "Man will ultimately be governed by God or by tyrants."
+    },
+    {
+      "quote": "Many complain of their memory, few of their judgment."
+    },
+    {
+      "quote": "Many men die at twenty-five and aren't buried until they are seventy-five."
+    },
+    {
+      "quote": "Marry your son when you will, but you daughter when you can."
+    },
+    {
+      "quote": "Money never made a man happy yet, nor will it. There is nothing in its nature to produce happiness. The more a man has, the more he wants. Instead of its filling a vacuum, it makes one. If it satisfies one want, it doubles and trebles that want another way. That was a true proverb of the wise man, rely upon it; \"Better is little with the fear of the Lord, than great treasure, and trouble therewith.\""
+    },
+    {
+      "quote": "Necessity never made a good bargain."
+    },
+    {
+      "quote": "Never leave that till tomorrow which you can do today."
+    },
+    {
+      "quote": "Never put off until tomorrow what you can do today."
+    },
+    {
+      "quote": "Never ruin an apology with an excuse."
+    },
+    {
+      "quote": "No nation was ever ruined by trade."
+    },
+    {
+      "quote": "Nothing is certain except death and taxes."
+    },
+    {
+      "quote": "Only a virtuous people are capable of freedom.  As nations become corrupt and vicious, they have more need of masters."
+    },
+    {
+      "quote": "Our Constitution is in actual operation; everything appears to promise that it will last; but in this world nothing is certain but death and taxes."
+    },
+    {
+      "quote": "Our critics are our friends; they show us our faults."
+    },
+    {
+      "quote": "Pride breakfasted with plenty, dined with poverty, and supped with infamy."
+    },
+    {
+      "quote": "Read much, but not many books."
+    },
+    {
+      "quote": "Remember not only to say the right thing in the right place, but far more difficult still, to leave unsaid the wrong thing at the tempting moment."
+    },
+    {
+      "quote": "Remember that time is money."
+    },
+    {
+      "quote": "Rules too soft are seldomly followed; rules too harsh are seldomly executed."
+    },
+    {
+      "quote": "Search others for their virtues, thyself for thy vices."
+    },
+    {
+      "quote": "Serving God is doing good to man. But praying is thought an easier service and is therefore more generally chosen."
+    },
+    {
+      "quote": "Sin is not hurtful because it is forbidden, but it is forbidden because it's hurtful."
+    },
+    {
+      "quote": "Sloth makes all things difficult, but industry, all things easy. He that rises late must trot all day, and shall scarce overtake his business at night, while laziness travels so slowly that poverty soon overtakes him."
+    },
+    {
+      "quote": "So convenient a thing it is to be a reasonable creature, since it enables one to find or make a reason for everything one has a mind to do."
+    },
+    {
+      "quote": "Tell me and I forget. Teach me and I remember. Involve me and I learn."
+    },
+    {
+      "quote": "The absent are never without fault, nor the present without excuse."
+    },
+    {
+      "quote": "The bitterness of poor quality remains long after the sweetness of low price is forgotten."
+    },
+    {
+      "quote": "The Constitution only guarantees the American people the right to pursue happiness. You have to catch it yourself."
+    },
+    {
+      "quote": "The doors of wisdom are never shut."
+    },
+    {
+      "quote": "The first mistake in public business is the going into it."
+    },
+    {
+      "quote": "The longer I live, the more convincing proofs I see of this truth: &#039;that God governs in the affairs of men.&#039;  And if a sparrow cannot fall to the ground without His notice, is it probable that an empire can rise without His aid?"
+    },
+    {
+      "quote": "The strictest law sometimes becomes the severest injustice."
+    },
+    {
+      "quote": "The way to see by faith is to shut the eye of reason."
+    },
+    {
+      "quote": "There are three great friends an old wife, an old dog, and ready money."
+    },
+    {
+      "quote": "There is no kind of dishonesty into which otherwise good people more easily and frequently fall than that of defrauding the government."
+    },
+    {
+      "quote": "There is no little enemy."
+    },
+    {
+      "quote": "They that can give up essential liberty to obtain a little temporary safety deserve neither liberty nor safety."
+    },
+    {
+      "quote": "They that can give up essential liberty to obtain a little temporary safety deserve neither liberty nor safety."
+    },
+    {
+      "quote": "They that will not be counseled, cannot be helped. If you do not hear reason she will rap you on the knuckles."
+    },
+    {
+      "quote": "Think of these things, whence you came, where you are going, and to whom you must account."
+    },
+    {
+      "quote": "Think what you do when you run into debt; you give another power over your liberty."
+    },
+    {
+      "quote": "Those disputing, contradicting, and confuting people are generally unfortunate in their affairs. They get victory, sometimes, but they never get good will, which would be of more use to them."
+    },
+    {
+      "quote": "Those who would give up essential Liberty,\nto purchase a little temporary Safety,\ndeserve neither Liberty nor Safety."
+    },
+    {
+      "quote": "Three can keep a secret, if two of them are dead."
+    },
+    {
+      "quote": "Three may keep a secret, if two of them are dead."
+    },
+    {
+      "quote": "Three people can keep a secret so long as two of them are dead."
+    },
+    {
+      "quote": "Time is money."
+    },
+    {
+      "quote": "To be humble to superiors is duty, to equals courtesy, to inferiors nobleness."
+    },
+    {
+      "quote": "To err is human, to repent divine, to persist devilish."
+    },
+    {
+      "quote": "To follow by faith alone is to follow blindly."
+    },
+    {
+      "quote": "To lengthen thy life, lessen thy meals."
+    },
+    {
+      "quote": "To lengthen thy life, lessen thy meals."
+    },
+    {
+      "quote": "To the generous mind the heaviest debt is that of gratitude, when it is not in our power to repay it."
+    },
+    {
+      "quote": "Use no hurtful deceit think innocently and justly and if you speak, speak accordingly."
+    },
+    {
+      "quote": "We must all hang together, or most assuredly we shall all hang separately."
+    },
+    {
+      "quote": "We must hang together, gentlemen...else, we shall most assuredly hang separately."
+    },
+    {
+      "quote": "We must indeed all hang together, or, most assuredly, we shall hang separately."
+    },
+    {
+      "quote": "Wealth is not his that has it, but his who enjoys it."
+    },
+    {
+      "quote": "Well done is better than well said."
+    },
+    {
+      "quote": "What you seem to be, be really."
+    },
+    {
+      "quote": "Whatever is begun in anger ends in shame."
+    },
+    {
+      "quote": "When the well&#039;s dry, we know the worth of water."
+    },
+    {
+      "quote": "Where sense is wanting, everything is wanting,"
+    },
+    {
+      "quote": "Where there's marriage without love, there will be love without marriage."
+    },
+    {
+      "quote": "Who is rich? He that is content. Who is that? Nobody."
+    },
+    {
+      "quote": "Who is rich? He who is content. Who is that? Nobody."
+    },
+    {
+      "quote": "Who is wise He that learns from everyone. Who is powerful He that governs his passions. Who is rich He who is content. Who is that Nobody."
+    },
+    {
+      "quote": "Whoever feels pain in hearing a good character of his neighbor, will feel a pleasure in the reverse. And those who despair to rise in distinction by their virtues, are happy if others can be depressed to a level of themselves."
+    },
+    {
+      "quote": "Whoever would overthrow the liberty of a nation must begin by subduing the freeness of speech."
+    },
+    {
+      "quote": "Wish not so much to live long as to live well."
+    },
+    {
+      "quote": "Without freedom of thought there can be no such thing as wisdom; and no such thing as public liberty without freedom of speech."
+    },
+    {
+      "quote": "Without justice courage is weak."
+    },
+    {
+      "quote": "Words may show a man's wit, but actions his meaning."
+    },
+    {
+      "quote": "Would you live with ease, do what you ought, and not what you please."
+    },
+    {
+      "quote": "Write injuries in dust, benefits in marble."
+    },
+    {
+      "quote": "You may delay, but time will not."
+    },
+    {
+      "quote": "[A]s all history informs us, there has been in every State &#38; Kingdom a constant kind of warfare between the governing &#38; governed: the one striving to obtain more for its support, and the other to pay less. And this has alone occasioned great convulsions, actual civil wars, ending either in dethroning of the Princes, or enslaving of the people. Generally indeed the ruling power carries its point, the revenues of princes constantly increasing, and we see that they are never satisfied, but always in want of more. The more the people are discontented with the oppression of taxes; the greater need the prince has of money to distribute among his partisans and pay the troops that are to suppress all resistance, and enable him to plunder at pleasure. There is scarce a king in a hundred who would not, if he could, follow the example of Pharaoh, get first all the peoples money, then all their lands, and then make them and their children servants for ever ..."
+    }
+  ],
   "Albert Einstein": [
     {
       "quote": "...One of the strongest motives that lead men to art and science is escape from everyday life with its painful crudity and hopeless dreariness, from the fetters of one's own ever-shifting desires. A finely tempered nature longs to escape from the personal life into the world of objective perception and thought."

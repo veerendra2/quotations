@@ -3,7 +3,7 @@ module github.com/veerendra2/funmotd
 go 1.23.5
 
 require (
-	github.com/alecthomas/kong v1.10.0
+	github.com/alecthomas/kong v1.11.0
 	github.com/charmbracelet/lipgloss v1.1.0
 )
 

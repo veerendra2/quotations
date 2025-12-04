@@ -4,7 +4,7 @@
 
 A tool to display random inspirational quotes and famous dialogues from movies and TV shows on your CLI.
 
-![Demo Gif](./assets/demo.gif)
+![Demo Gif](./assets/demo.mov)
 
 ## Features
 

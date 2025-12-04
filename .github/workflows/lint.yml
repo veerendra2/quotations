@@ -6,7 +6,7 @@ on:
 jobs:
   golangci-lint:
     name: Lint SourceCode
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     steps:
       - name: Check out code
         uses: actions/checkout@v6

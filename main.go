@@ -3,23 +3,17 @@ package main
 import (
 	"embed"
 	"encoding/json"
+	"flag"
 	"fmt"
 	"maps"
 	"math/rand"
 	"slices"
 
-	"github.com/alecthomas/kong"
 	"github.com/charmbracelet/lipgloss"
 )
 
 //go:embed quotes/**/*.json
 var quotesFiles embed.FS
-
-var cli struct {
-	NSFW          bool `help:"Enable NSFW quotes" short:"n"`
-	Entertainment bool `help:"Display entertainment (movies and tv shows) quotes (default)" short:"e"`
-	Inspirational bool `help:"Display inspirational (famous figures) quotes" short:"i"`
-}
 
 type Quote struct {
 	Quote     string `json:"quote"`
@@ -29,14 +23,18 @@ type Quote struct {
 
 func main() {
 
-	kongCli := kong.Parse(&cli)
+	nsfw := flag.Bool("nsfw", false, "Enable NSFW quotes")
+	entertainment := flag.Bool("entertainment", true, "Display entertainment quotes")
+	inspirational := flag.Bool("inspirational", false, "Display inspirational quotes")
+	flag.Parse()
 
-	if cli.Entertainment && cli.Inspirational {
-		kongCli.Fatalf("--entertainment (-e) and --inspirational (-i) are mutually exclusive. Please choose one.")
+	if *entertainment && *inspirational {
+		fmt.Println("--entertainment and --inspirational are mutually exclusive.")
+		return
 	}
 
 	dirPath := "quotes/entertainment"
-	if cli.Inspirational {
+	if *inspirational {
 		dirPath = "quotes/inspirational"
 	}
 
@@ -46,16 +44,14 @@ func main() {
 	fileContent, _ := quotesFiles.ReadFile(dirPath + "/" + randFile.Name())
 
 	var selectedQuotes map[string][]Quote
-	if err := json.Unmarshal(fileContent, &selectedQuotes); err != nil {
-		kongCli.Fatalf("error unmarshaling JSON: %v", err)
-	}
+	_ = json.Unmarshal(fileContent, &selectedQuotes)
 
 	// Get random title
 	titles := slices.Collect(maps.Keys(selectedQuotes))
 	randomTitle := titles[rand.Intn(len(titles))]
 
 	var filteredQuotes []Quote
-	if cli.NSFW {
+	if *nsfw {
 		filteredQuotes = selectedQuotes[randomTitle]
 	} else {
 		filteredQuotes = slices.DeleteFunc(selectedQuotes[randomTitle], func(q Quote) bool {
@@ -70,9 +66,9 @@ func main() {
 	var characterStyle = lipgloss.NewStyle().Bold(true).PaddingLeft(30).Foreground(lipgloss.Color("6"))
 
 	fmt.Println(quoteStyle.Render(fmt.Sprintf("❝%s❞", randomQuote.Quote)))
-	if cli.Inspirational {
+	if *inspirational {
 		fmt.Println(characterStyle.Render(fmt.Sprintf("─ %s", randomTitle)))
 	} else {
-		fmt.Println(characterStyle.Render(fmt.Sprintf("─ %s (%s) 🎬", randomQuote.Character, randomTitle)))
+		fmt.Println(characterStyle.Render(fmt.Sprintf("─ %s (%s)", randomQuote.Character, randomTitle)))
 	}
 }

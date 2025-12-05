@@ -22,7 +22,6 @@ type Quote struct {
 }
 
 func main() {
-
 	nsfw := flag.Bool("nsfw", false, "Enable NSFW quotes")
 	entertainment := flag.Bool("entertainment", true, "Display entertainment quotes")
 	inspirational := flag.Bool("inspirational", false, "Display inspirational quotes")

@@ -11,6 +11,9 @@ builds:
     goos:
       - linux
       - darwin
+    goarch:
+      - amd64
+      - arm64
 
 archives:
   - formats: ["zip"]
@@ -29,24 +32,28 @@ changelog:
       - "^docs:"
       - "^test:"
 
-brews:
+homebrew_casks:
   - name: quotations
-    url_template: "https://github.com/veerendra2/quotations/releases/download/{{ .Tag }}/{{ .ArtifactName }}"
-    directory: Formula
+    directory: Casks
+    homepage: "https://github.com/veerendra2/quotations"
+    description: "A tool to display random inspirational quotes and famous dialogues from movies and TV shows on your CLI. 😎"
+    url:
+      verified: github.com/veerendra2/quotations
+      template: "https://github.com/veerendra2/quotations/releases/download/{{ .Tag }}/{{ .ArtifactName }}"
+
     caveats: >-
       ℹ️ To display a random quote when terminal opens, add it to your shell
 
       💡 Example for Bash:
 
       echo "quotations" >> ~/.bashrc
-    homepage: "https://github.com/veerendra2/quotations"
-    description: "A tool to display random inspirational quotes and famous dialogues from movies and TV shows on your CLI. 😎"
-    license: "MIT"
-    repository:
-      owner: veerendra2
-      name: homebrew-tap
-      branch: main
-      token: "{{ .Env.GITHUB_TOKEN }}"
+
+    hooks:
+      post:
+        install: |
+          if OS.mac?
+            system_command "/usr/bin/xattr", args: ["-dr", "com.apple.quarantine", "#{staged_path}/quotations"]
+          end
 
 release:
   footer: >-

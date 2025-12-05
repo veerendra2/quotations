@@ -18,7 +18,8 @@ https://github.com/user-attachments/assets/f70a8a61-ae75-4290-8275-8a10c483bfea
 ### Homebrew
 
 ```bash
-brew install veerendra2/tap/quotations
+brew tap veerendra2/tap
+brew install --cask quotations
 ```
 
 ### Download Binaries

@@ -45,7 +45,7 @@ homebrew_casks:
 
       💡 Example for Bash:
 
-      echo "quotations" >> ~/.bashrc
+      echo quotations >> ~/.bashrc
     hooks:
       post:
         install: |

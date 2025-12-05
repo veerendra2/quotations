@@ -40,24 +40,20 @@ homebrew_casks:
     url:
       verified: github.com/veerendra2/quotations
       template: "https://github.com/veerendra2/quotations/releases/download/{{ .Tag }}/{{ .ArtifactName }}"
-
     caveats: >-
       ℹ️ To display a random quote when terminal opens, add it to your shell
 
       💡 Example for Bash:
 
       echo "quotations" >> ~/.bashrc
-
     hooks:
       post:
         install: |
           if OS.mac?
             system_command "/usr/bin/xattr", args: ["-dr", "com.apple.quarantine", "#{staged_path}/quotations"]
           end
-
-release:
-  footer: >-
-
-    ---
-
-    Released by [GoReleaser](https://github.com/goreleaser/goreleaser).
+    repository:
+      owner: veerendra2
+      name: homebrew-tap
+      branch: main
+      token: "{{ .Env.GITHUB_TOKEN }}"

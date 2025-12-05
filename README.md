@@ -38,14 +38,9 @@ Run the following command to see available options:
 
 ```bash
 quotations --help
-Usage of quotations:
-
-  -entertainment
-        Display entertainment quotes (default true)
-  -inspirational
-        Display inspirational quotes
-  -nsfw
-        Enable NSFW quotes
+  -e    Display entertainment quotes (default)
+  -i    Display inspirational quotes
+  -n    Enable NSFW quotes
 ```
 
 ### Configuration
@@ -57,11 +52,11 @@ To display a random quote each time you open your terminal, add the following li
 echo "/usr/local/bin/quotations" >> ~/.bashrc
 
 # To include NSFW quotes
-echo "/usr/local/bin/quotations --nsfw" >> ~/.bashrc
+echo "/usr/local/bin/quotations -n" >> ~/.bashrc
 
 # By default it displays entertainment quotes
 # To display inspirational quotes
-echo "/usr/local/bin/quotations --inspirational" >> ~/.bashrc
+echo "/usr/local/bin/quotations -i" >> ~/.bashrc
 ```
 
 Then, reload your shell configuration:

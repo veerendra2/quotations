@@ -22,13 +22,13 @@ type Quote struct {
 }
 
 func main() {
-	nsfw := flag.Bool("nsfw", false, "Enable NSFW quotes")
-	entertainment := flag.Bool("entertainment", true, "Display entertainment quotes")
-	inspirational := flag.Bool("inspirational", false, "Display inspirational quotes")
+	nsfw := flag.Bool("n", false, "Enable NSFW quotes")
+	entertainment := flag.Bool("e", false, "Display entertainment quotes (default)")
+	inspirational := flag.Bool("i", false, "Display inspirational quotes")
 	flag.Parse()
 
 	if *entertainment && *inspirational {
-		fmt.Println("--entertainment and --inspirational are mutually exclusive.")
+		fmt.Println("Please choose either -e or -i, not both.")
 		return
 	}
 

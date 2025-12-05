@@ -1,0 +1,59 @@
+---
+version: "3"
+silent: true
+
+vars:
+  MAIN_FILE: main.go
+  APP_NAME: quotations
+  GOPATH_BIN:
+    sh: echo "$(go env GOPATH)/bin"
+
+env:
+  GOBIN: "{{.GOPATH_BIN }}"
+  CGO_ENABLED: 0
+
+tasks:
+  run:
+    desc: "Runs the main application"
+    deps:
+      - vet
+    cmds:
+      - go run {{.MAIN_FILE}}
+
+  lint:
+    desc: "Run static analysis and code linting using golangci-lint"
+    deps:
+      - install
+    cmds:
+      - golangci-lint run --timeout 3m
+
+  fmt:
+    desc: "Formats all Go source files"
+    cmds:
+      - go fmt ./...
+
+  vet:
+    desc: "Examines Go source code and reports suspicious constructs"
+    cmds:
+      - go vet ./...
+
+  build:
+    desc: "Build the application binary for the current platform"
+    deps:
+      - vet
+    cmd: |
+      go build -o dist/{{.APP_NAME}} {{.MAIN_FILE}}
+
+  install:
+    desc: "Install required tools and dependencies"
+    cmds:
+      - go install github.com/golangci/golangci-lint/cmd/golangci-lint@latest
+    status:
+      - test -f {{.GOPATH_BIN}}/golangci-lint
+
+  all:
+    desc: "Run comprehensive checks: format, lint, security and test"
+    cmds:
+      - task fmt
+      - task lint
+      - task vet
